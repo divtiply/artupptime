@@ -16,7 +16,7 @@
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-13": 231
+      "2024-05-13": 239
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phillips.com.ico",
     "slug": "phillips",
     "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
+    "uptime": "97.64%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "97.64%",
     "time": 344,
     "timeDay": 344,
     "timeWeek": 344,
@@ -74,7 +74,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-05-13": 658
+      "2024-05-13": 667
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/csc.bonhams.com.ico",
     "slug": "cornette-de-saint-cyr",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 123,
     "timeDay": 123,
     "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-05-13": 231
+      "2024-05-13": 239
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-05-13": 231
+      "2024-05-13": 239
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2024-05-13": 414
+      "2024-05-13": 422
     }
   },
   {
@@ -172,7 +172,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-05-13": 414
+      "2024-05-13": 422
     }
   },
   {
@@ -786,7 +786,7 @@
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-05-13": 413
+      "2024-05-13": 422
     }
   },
   {
@@ -986,7 +986,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-05-13": 230
+      "2024-05-13": 239
     }
   },
   {
@@ -1006,7 +1006,7 @@
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-05-13": 413
+      "2024-05-13": 421
     }
   },
   {
@@ -1080,7 +1080,7 @@
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-05-13": 412
+      "2024-05-13": 421
     }
   },
   {
@@ -1190,7 +1190,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-05-13": 412
+      "2024-05-13": 421
     }
   },
   {
@@ -1378,19 +1378,19 @@
     "url": "https://www.arcadja.com/auctions/en/",
     "icon": "https://icons.duckduckgo.com/ip3/www.arcadja.com.ico",
     "slug": "arcadja",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 3724,
-    "timeDay": 3724,
-    "timeWeek": 3724,
-    "timeMonth": 3724,
-    "timeYear": 3724,
+    "status": "up",
+    "uptime": "97.99%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "97.99%",
+    "time": 3341,
+    "timeDay": 3341,
+    "timeWeek": 3341,
+    "timeMonth": 3341,
+    "timeYear": 3341,
     "dailyMinutesDown": {
-      "2024-05-13": 0
+      "2024-05-13": 8
     }
   },
   {
