@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christie-s",
     "status": "down",
-    "uptime": "8.58%",
-    "uptimeDay": "8.58%",
-    "uptimeWeek": "8.58%",
-    "uptimeMonth": "8.58%",
-    "uptimeYear": "8.58%",
+    "uptime": "8.57%",
+    "uptimeDay": "8.57%",
+    "uptimeWeek": "8.57%",
+    "uptimeMonth": "8.57%",
+    "uptimeYear": "8.57%",
     "time": 216,
     "timeDay": 216,
     "timeWeek": 216,
@@ -141,11 +141,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bruun-rasmussen.dk.ico",
     "slug": "bruun-rasmussen-bonhams-network",
     "status": "down",
-    "uptime": "0.31%",
-    "uptimeDay": "0.31%",
-    "uptimeWeek": "0.31%",
-    "uptimeMonth": "0.31%",
-    "uptimeYear": "0.31%",
+    "uptime": "0.29%",
+    "uptimeDay": "0.29%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "0.29%",
+    "uptimeYear": "0.29%",
     "time": 568,
     "timeDay": 568,
     "timeWeek": 568,
@@ -986,7 +986,7 @@
     "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2024-05-13": 113
+      "2024-05-13": 114
     }
   },
   {
@@ -1006,7 +1006,7 @@
     "timeMonth": 533,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-05-13": 113
+      "2024-05-13": 114
     }
   },
   {
@@ -1080,7 +1080,7 @@
     "timeMonth": 582,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2024-05-13": 113
+      "2024-05-13": 114
     }
   },
   {
