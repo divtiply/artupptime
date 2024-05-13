@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 223,
     "timeDay": 223,
     "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-13": 30
+      "2024-05-13": 36
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phillips.com.ico",
     "slug": "phillips",
     "status": "up",
-    "uptime": "96.55%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "96.55%",
+    "uptime": "96.60%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "96.60%",
     "time": 363,
     "timeDay": 363,
     "timeWeek": 363,
@@ -74,7 +74,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-05-13": 457
+      "2024-05-13": 464
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/csc.bonhams.com.ico",
     "slug": "cornette-de-saint-cyr",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 123,
     "timeDay": 123,
     "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-05-13": 30
+      "2024-05-13": 36
     }
   },
   {
@@ -103,18 +103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/skinner.bonhams.com.ico",
     "slug": "skinner",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 86,
     "timeDay": 86,
     "timeWeek": 86,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-05-13": 30
+      "2024-05-13": 36
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2024-05-13": 213
+      "2024-05-13": 219
     }
   },
   {
@@ -172,7 +172,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-05-13": 213
+      "2024-05-13": 219
     }
   },
   {
@@ -775,18 +775,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tajan.com.ico",
     "slug": "tajan",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 204,
     "timeDay": 204,
     "timeWeek": 204,
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-05-13": 212
+      "2024-05-13": 219
     }
   },
   {
@@ -986,7 +986,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-05-13": 29
+      "2024-05-13": 35
     }
   },
   {
@@ -1006,7 +1006,7 @@
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-05-13": 212
+      "2024-05-13": 218
     }
   },
   {
@@ -1080,7 +1080,7 @@
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-05-13": 212
+      "2024-05-13": 218
     }
   },
   {
@@ -1190,7 +1190,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-05-13": 212
+      "2024-05-13": 218
     }
   },
   {
@@ -1324,19 +1324,19 @@
     "url": "https://artchart.net/en",
     "icon": "https://icons.duckduckgo.com/ip3/artchart.net.ico",
     "slug": "artchart",
-    "status": "down",
-    "uptime": "95.84%",
-    "uptimeDay": "95.84%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "95.84%",
-    "time": 8785,
-    "timeDay": 8785,
-    "timeWeek": 8785,
-    "timeMonth": 8785,
-    "timeYear": 8785,
+    "status": "up",
+    "uptime": "80.37%",
+    "uptimeDay": "80.37%",
+    "uptimeWeek": "80.37%",
+    "uptimeMonth": "80.37%",
+    "uptimeYear": "80.37%",
+    "time": 7118,
+    "timeDay": 7118,
+    "timeWeek": 7118,
+    "timeMonth": 7118,
+    "timeYear": 7118,
     "dailyMinutesDown": {
-      "2024-05-13": 1
+      "2024-05-13": 7
     }
   },
   {
