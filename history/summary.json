@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christie-s",
     "status": "down",
-    "uptime": "53.28%",
-    "uptimeDay": "53.28%",
-    "uptimeWeek": "53.28%",
-    "uptimeMonth": "53.28%",
-    "uptimeYear": "53.28%",
+    "uptime": "32.03%",
+    "uptimeDay": "32.03%",
+    "uptimeWeek": "32.03%",
+    "uptimeMonth": "32.03%",
+    "uptimeYear": "32.03%",
     "time": 269,
     "timeDay": 269,
     "timeWeek": 269,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-05-13": 27
+      "2024-05-13": 65
     }
   },
   {
@@ -42,17 +42,17 @@
     "url": "https://www.phillips.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.phillips.com.ico",
     "slug": "phillips",
-    "status": "up",
-    "uptime": "72.73%",
-    "uptimeDay": "72.73%",
-    "uptimeWeek": "72.73%",
-    "uptimeMonth": "72.73%",
-    "uptimeYear": "72.73%",
-    "time": 823,
-    "timeDay": 823,
-    "timeWeek": 823,
-    "timeMonth": 823,
-    "timeYear": 823,
+    "status": "down",
+    "uptime": "83.45%",
+    "uptimeDay": "83.45%",
+    "uptimeWeek": "83.45%",
+    "uptimeMonth": "83.45%",
+    "uptimeYear": "83.45%",
+    "time": 641,
+    "timeDay": 641,
+    "timeWeek": 641,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2024-05-13": 16
     }
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bonhams.com.ico",
     "slug": "bonhams",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 124,
     "timeDay": 124,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-05-13": 58
+      "2024-05-13": 96
     }
   },
   {
