@@ -4,18 +4,20 @@
     "url": "https://www.christies.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christie-s",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 385,
-    "timeWeek": 385,
-    "timeMonth": 385,
-    "timeYear": 385,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 269,
+    "timeDay": 269,
+    "timeWeek": 269,
+    "timeMonth": 269,
+    "timeYear": 269,
+    "dailyMinutesDown": {
+      "2024-05-13": 0
+    }
   },
   {
     "name": "Sotheby's",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bonhams.com.ico",
     "slug": "bonhams",
     "status": "down",
-    "uptime": "3.63%",
-    "uptimeDay": "3.63%",
-    "uptimeWeek": "3.63%",
-    "uptimeMonth": "3.63%",
-    "uptimeYear": "3.63%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 124,
     "timeDay": 124,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-05-13": 0
+      "2024-05-13": 31
     }
   },
   {
