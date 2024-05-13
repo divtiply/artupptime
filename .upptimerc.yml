@@ -7,334 +7,415 @@ sites:
   # Auction Houses:
   - name: Christie's
     url: https://www.christies.com/
+    slug: christies
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Sotheby's
     url: https://www.sothebys.com/en/
+    slug: sothebys
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Phillips
     url: https://www.phillips.com/
+    slug: phillips
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Bonhams
     url: https://www.bonhams.com/
+    slug: bonhams
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Bonhams Cornette de Saint Cyr
     url: https://csc.bonhams.com/en/
+    slug: cornette-de-saint-cyr
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Bonhams Skinner
     url: https://skinner.bonhams.com/
+    slug: skinner
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Bukowskis - Bonhams Network
     url: https://www.bukowskis.com/en
+    slug: bukowskis
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Bruun Rasmussen - Bonhams Network
     url: https://bruun-rasmussen.dk/m
+    slug: bruun-rasmussen
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Heritage Auctions
     url: https://www.ha.com/
+    slug: heritage-auctions
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Artcurial
     url: https://www.artcurial.com/en
+    slug: artcurial
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Ketterer Kunst
     url: https://www.kettererkunst.com/
+    slug: keterrerkunst
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Grisebach
     url: https://www.grisebach.com/en/
+    slug: grisebach
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Seoul Auction
     url: https://www.seoulauction.com/?lang=en
+    slug: seoul-auction
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Mainichi Auction
     url: https://www.my-auction.co.jp/en/
+    slug: mainichi-auction
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Dorotheum
     url: https://www.dorotheum.com/en/
+    slug: dorotheum
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Heffel
     url: https://www.heffel.com/
+    slug: heffel
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Swann Galleries
     url: https://www.swanngalleries.com/
+    slug: swan-galleries
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Lempertz
     url: https://www.lempertz.com/en/
+    slug: lempertz
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Ansorena
     url: https://www.ansorena.com/en
+    slug: ansorena
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Rago - Rago Wright Network
     url: https://www.ragoarts.com/
+    slug: rago
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Wright - Rago Wright Network
     url: https://www.wright20.com/
+    slug: wright
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: LAMA - Rago Wright Network
     url: https://www.lamodern.com/
+    slug: lama
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Toomey & Co - Rago Wright Network
     url: https://www.toomeyco.com/
+    slug: toomey-and-co
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Desa Unicum
     url: https://desa.pl/en/
+    slug: desa-unicum
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: SBI Art Auction
     url: https://www.sbiartauction.co.jp/en/
+    slug: sbi-art-auction
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Piasa
     url: https://www.piasa.fr/en/home
+    slug: piasa
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Ravenel
     url: https://ravenel.com/en/
+    slug: ravenel
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: im Kinsky
     url: https://imkinsky.com/en
+    slug: imkinsky
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Saffronart
     url: https://www.saffronart.com/
+    slug: saffronart
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Koller
     url: https://www.kollerauktionen.ch/en/home.htm
+    slug: koller
     maxRedirects: 0
     expectedStatusCodes: [200]
-  - name: iArt Co., Ltd.
+  - name: iArt Auction
     url: https://www.ise-art.co.jp/
+    slug: iart
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Deutscher and Hackett
     url: https://www.deutscherandhackett.com/
+    slug: deutscher-and-hackett
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: AstaGuru
     url: https://www.astaguru.com/
+    slug: astaguru
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: China Guardian
     url: https://www.cguardian.com/en/
+    slug: china-guardian
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Karl & Faber
     url: https://www.karlundfaber.de/en/
+    slug: karl-and-faber
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Polswiss Art
     url: https://www.polswissart.pl/pl
+    slug: polswissart
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Aguttes
     url: https://www.aguttes.com/en/home
+    slug: aguttes
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Scottsdale Art Auction
     url: https://scottsdaleartauction.com/
+    slug: scottsdale-art-auction
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Van Ham
     url: https://www.van-ham.com/en/index.html
+    slug: van-ham
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Freeman's
     url: https://www.freemansauction.com/
+    slug: freemans
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Hindman
     url: https://hindmanauctions.com/
+    slug: hindman
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Casa d'aste Meeting Art
     url: https://www.meetingart.it/
+    slug: meetingart
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Tajan
     url: https://www.tajan.com/en/
+    slug: tajan
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Poly Auction
     url: https://www.polyauction.com.hk/en
+    slug: poly-auction
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Hampel
     url: https://www.hampel-auctions.com/index.html?la=en
+    slug: hampel
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Menzies Art Brands 
     url: https://www.menziesartbrands.com/
+    slug: menzies
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Millon
     url: https://www.millon.com/en
+    slug: millon
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: De Vuyst
     url: https://de-vuyst.com/en
+    slug: de-vuyst
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Smith & Singer
     url: https://www.smithandsinger.com.au/
+    slug: smith-and-singer
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Ader
     url: https://www.ader-paris.fr/en/home
+    slug: ader
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Strauss & Co
     url: https://www.straussart.co.za/
+    slug: strauss-and-co
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Uppsala Auktionskammare
     url: https://www.uppsalaauktion.se/en/
+    slug: uppsala
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Lehr Kunstauktionen
     url: https://lehr-kunstauktionen.de/en/
+    slug: lehr-kunstauktionen
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Casa d'aste Farsettiarte
     url: https://www.farsettiarte.it/uk/index.asp
+    slug: farsettiarte
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Forum Auctions
     url: https://www.forumauctions.co.uk/
+    slug: forum-auctions
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: K Auction
     url: https://www.k-auction.com/
+    slug: k-auction
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Kornfeld
     url: https://www.kornfeld.ch/
+    slug: kornfeld
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Lyon & Turnbull
     url: https://www.lyonandturnbull.com/
+    slug: lyon-and-turnbull
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Roseberys
     url: https://www.roseberys.co.uk/
+    slug: roseberys
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Tate Ward
     url: https://www.tateward.com/
+    slug: tate-ward
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Stockholms Auktionsverk
     url: https://www.auktionsverket.com/en/
+    slug: stockholms-auktionsverk
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Yongle Auction
     url: https://www.yongleauction.com/en/
+    slug: yongle
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Sungari International Auction
     url: https://www.sungari1995.com/
+    slug: sungari
     maxRedirects: 0
     expectedStatusCodes: [200]
 
   # Platforms:
   - name: Artsy
     url: https://www.artsy.net/
+    slug: artsy
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Invaluable
     url: https://www.invaluable.com/
+    slug: invaluable
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Drouot
     url: https://drouot.com/en
+    slug: drouot
     maxRedirects: 0
     expectedStatusCodes: [200]
 
   # Aggregators:
   - name: Artnet
     url: https://www.artnet.com/
+    slug: artnet
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: MutualArt
     url: https://www.mutualart.com/
+    slug: mutualart
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: LiveAuctioneers
     url: https://www.liveauctioneers.com/
+    slug: liveauctioneers
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Barnebys
     url: https://www.barnebys.com/
+    slug: barnebys
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: BidtoArt
     url: https://bidtoart.com/
+    slug: bidtoart
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: askART
     url: https://www.askart.com/
+    slug: askart
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: ArtChart
     url: https://artchart.net/en
+    slug: artchart
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Darz
     url: https://darz.art/en
+    slug: darz
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Arcadja
     url: https://www.arcadja.com/auctions/en/
+    slug: arcadja
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Collector Daily
     url: https://collectordaily.com/
+    slug: collector-daily
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Art.co
     url: https://art.co/
+    slug: art-co
     maxRedirects: 0
     expectedStatusCodes: [200]
 
   # Fairs:
   - name: Art Basel
     url: https://www.artbasel.com/
+    slug: art-basel
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Frieze
     url: https://www.frieze.com/
+    slug: frieze
     maxRedirects: 0
     expectedStatusCodes: [200]
 
   # Other
   - name: Archeus
     url: https://www.archeus.com/
+    slug: archeus
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Artfacts
     url: https://artfacts.net/
+    slug: artfacts
     maxRedirects: 0
     expectedStatusCodes: [200]
 
