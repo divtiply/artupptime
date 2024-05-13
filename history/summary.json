@@ -16,7 +16,7 @@
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-13": 239
+      "2024-05-13": 246
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phillips.com.ico",
     "slug": "phillips",
     "status": "up",
-    "uptime": "97.64%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "97.64%",
+    "uptime": "97.66%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "97.66%",
     "time": 344,
     "timeDay": 344,
     "timeWeek": 344,
@@ -74,7 +74,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-05-13": 667
+      "2024-05-13": 674
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/csc.bonhams.com.ico",
     "slug": "cornette-de-saint-cyr",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 123,
     "timeDay": 123,
     "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-05-13": 239
+      "2024-05-13": 246
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-05-13": 239
+      "2024-05-13": 246
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2024-05-13": 422
+      "2024-05-13": 429
     }
   },
   {
@@ -172,7 +172,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-05-13": 422
+      "2024-05-13": 429
     }
   },
   {
@@ -666,18 +666,20 @@
     "url": "https://www.aguttes.com/en/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.aguttes.com.ico",
     "slug": "aguttes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 980,
     "timeDay": 980,
     "timeWeek": 980,
     "timeMonth": 980,
     "timeYear": 980,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-13": 2
+    }
   },
   {
     "name": "Scottsdale Art Auction",
@@ -786,7 +788,7 @@
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-05-13": 422
+      "2024-05-13": 429
     }
   },
   {
@@ -986,7 +988,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-05-13": 239
+      "2024-05-13": 245
     }
   },
   {
@@ -1006,7 +1008,7 @@
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-05-13": 421
+      "2024-05-13": 428
     }
   },
   {
@@ -1069,18 +1071,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roseberys.co.uk.ico",
     "slug": "roseberys",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 554,
     "timeDay": 554,
     "timeWeek": 554,
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-05-13": 421
+      "2024-05-13": 428
     }
   },
   {
@@ -1190,7 +1192,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-05-13": 421
+      "2024-05-13": 428
     }
   },
   {
@@ -1379,19 +1381,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.arcadja.com.ico",
     "slug": "arcadja",
     "status": "up",
-    "uptime": "97.99%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "97.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3341,
     "timeDay": 3341,
     "timeWeek": 3341,
     "timeMonth": 3341,
     "timeYear": 3341,
-    "dailyMinutesDown": {
-      "2024-05-13": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Collector Daily",
