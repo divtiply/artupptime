@@ -29,11 +29,11 @@ sites:
     url: https://skinner.bonhams.com/
     maxRedirects: 0
     expectedStatusCodes: [200]
-  - name: Bukowskis
+  - name: Bukowskis - Bonhams Network
     url: https://www.bukowskis.com/en
     maxRedirects: 0
     expectedStatusCodes: [200]
-  - name: Bruun Rasmussen
+  - name: Bruun Rasmussen - Bonhams Network
     url: https://bruun-rasmussen.dk/m
     maxRedirects: 0
     expectedStatusCodes: [200]
@@ -81,8 +81,20 @@ sites:
     url: https://www.ansorena.com/en
     maxRedirects: 0
     expectedStatusCodes: [200]
-  - name: Rago Auctions
+  - name: Rago - Rago Wright Network
     url: https://www.ragoarts.com/
+    maxRedirects: 0
+    expectedStatusCodes: [200]
+  - name: Wright - Rago Wright Network
+    url: https://www.wright20.com/
+    maxRedirects: 0
+    expectedStatusCodes: [200]
+  - name: LAMA - Rago Wright Network
+    url: https://www.lamodern.com/
+    maxRedirects: 0
+    expectedStatusCodes: [200]
+  - name: Toomey & Co - Rago Wright Network
+    url: https://www.toomeyco.com/
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Desa Unicum
@@ -101,10 +113,6 @@ sites:
     url: https://ravenel.com/en/
     maxRedirects: 0
     expectedStatusCodes: [200]
-  - name: Wright
-    url: https://www.wright20.com/
-    maxRedirects: 0
-    expectedStatusCodes: [200]
   - name: im Kinsky
     url: https://imkinsky.com/en
     maxRedirects: 0
@@ -113,7 +121,7 @@ sites:
     url: https://www.saffronart.com/
     maxRedirects: 0
     expectedStatusCodes: [200]
-  - name: Koller Auctions
+  - name: Koller
     url: https://www.kollerauktionen.ch/en/home.htm
     maxRedirects: 0
     expectedStatusCodes: [200]
@@ -173,7 +181,7 @@ sites:
     url: https://www.polyauction.com.hk/en
     maxRedirects: 0
     expectedStatusCodes: [200]
-  - name: Hampel Fine Art Auctions
+  - name: Hampel
     url: https://www.hampel-auctions.com/index.html?la=en
     maxRedirects: 0
     expectedStatusCodes: [200]
@@ -181,7 +189,7 @@ sites:
     url: https://www.menziesartbrands.com/
     maxRedirects: 0
     expectedStatusCodes: [200]
-  - name: Millon & Associes
+  - name: Millon
     url: https://www.millon.com/en
     maxRedirects: 0
     expectedStatusCodes: [200]
@@ -273,8 +281,16 @@ sites:
     url: https://www.mutualart.com/
     maxRedirects: 0
     expectedStatusCodes: [200]
+  - name: LiveAuctioneers
+    url: https://www.liveauctioneers.com/
+    maxRedirects: 0
+    expectedStatusCodes: [200]
   - name: Barnebys
     url: https://www.barnebys.com/
+    maxRedirects: 0
+    expectedStatusCodes: [200]
+  - name: BidtoArt
+    url: https://bidtoart.com/
     maxRedirects: 0
     expectedStatusCodes: [200]
   - name: askART
