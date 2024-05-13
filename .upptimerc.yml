@@ -374,6 +374,11 @@ sites:
     slug: artchart
     maxRedirects: 0
     expectedStatusCodes: [200]
+  - name: ArtPro
+    url: https://artpro.com/?locale=en
+    slug: artpro
+    maxRedirects: 0
+    expectedStatusCodes: [200]
   - name: Darz
     url: https://darz.art/en
     slug: darz
