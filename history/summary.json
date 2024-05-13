@@ -16,7 +16,7 @@
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-13": 29
+      "2024-05-13": 30
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-05-13": 29
+      "2024-05-13": 30
     }
   },
   {
@@ -103,18 +103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/skinner.bonhams.com.ico",
     "slug": "skinner",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 86,
     "timeDay": 86,
     "timeWeek": 86,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-05-13": 29
+      "2024-05-13": 30
     }
   },
   {
@@ -172,7 +172,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-05-13": 212
+      "2024-05-13": 213
     }
   },
   {
@@ -995,18 +995,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.forumauctions.co.uk.ico",
     "slug": "forum-auctions",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 487,
     "timeDay": 487,
     "timeWeek": 487,
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-05-13": 211
+      "2024-05-13": 212
     }
   },
   {
@@ -1080,7 +1080,7 @@
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-05-13": 211
+      "2024-05-13": 212
     }
   },
   {
@@ -1190,7 +1190,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-05-13": 211
+      "2024-05-13": 212
     }
   },
   {
@@ -1325,11 +1325,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/artchart.net.ico",
     "slug": "artchart",
     "status": "down",
-    "uptime": "97.64%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "97.64%",
+    "uptime": "95.84%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "95.84%",
+    "uptimeMonth": "95.84%",
+    "uptimeYear": "95.84%",
     "time": 8785,
     "timeDay": 8785,
     "timeWeek": 8785,
