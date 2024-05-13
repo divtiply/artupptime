@@ -4,28 +4,36 @@ repo: artupptime
 sites:
   - name: Christie's
     url: https://www.christies.com/
+    maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Sotheby's
     url: https://www.sothebys.com/en/
+    maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Phillips
     url: https://www.phillips.com/
+    maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Bonhams
     url: https://www.bonhams.com/
+    maxRedirects: 0
     expectedStatusCodes: [200]
   # Requires JS
   # - name: Herritage Auctions
   #   url: https://www.ha.com/
+  #   maxRedirects: 0
   #   expectedStatusCodes: [200]
   - name: China Guardian
     url: https://www.cguardian.com/en/
+    maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Poly Auction
     url: https://www.polyauction.com.hk/en
+    maxRedirects: 0
     expectedStatusCodes: [200]
   - name: Art Basel
     url: https://www.artbasel.com/
+    maxRedirects: 0
     expectedStatusCodes: [200]
 
 status-website:
