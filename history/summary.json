@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christie-s",
     "status": "down",
-    "uptime": "32.03%",
-    "uptimeDay": "32.03%",
-    "uptimeWeek": "32.03%",
-    "uptimeMonth": "32.03%",
-    "uptimeYear": "32.03%",
+    "uptime": "30.27%",
+    "uptimeDay": "30.27%",
+    "uptimeWeek": "30.27%",
+    "uptimeMonth": "30.27%",
+    "uptimeYear": "30.27%",
     "time": 269,
     "timeDay": 269,
     "timeWeek": 269,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-05-13": 65
+      "2024-05-13": 71
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.phillips.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.phillips.com.ico",
     "slug": "phillips",
-    "status": "down",
-    "uptime": "83.45%",
-    "uptimeDay": "83.45%",
-    "uptimeWeek": "83.45%",
-    "uptimeMonth": "83.45%",
-    "uptimeYear": "83.45%",
-    "time": 641,
-    "timeDay": 641,
-    "timeWeek": 641,
-    "timeMonth": 641,
-    "timeYear": 641,
+    "status": "up",
+    "uptime": "79.00%",
+    "uptimeDay": "79.00%",
+    "uptimeWeek": "79.00%",
+    "uptimeMonth": "79.00%",
+    "uptimeYear": "79.00%",
+    "time": 542,
+    "timeDay": 542,
+    "timeWeek": 542,
+    "timeMonth": 542,
+    "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-05-13": 16
+      "2024-05-13": 22
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-05-13": 96
+      "2024-05-13": 102
     }
   },
   {
