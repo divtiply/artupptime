@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christie-s",
     "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "73.22%",
+    "uptimeDay": "73.22%",
+    "uptimeWeek": "73.22%",
+    "uptimeMonth": "73.22%",
+    "uptimeYear": "73.22%",
     "time": 269,
     "timeDay": 269,
     "timeWeek": 269,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-05-13": 0
+      "2024-05-13": 11
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "https://www.phillips.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.phillips.com.ico",
     "slug": "phillips",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2220,
-    "timeDay": 2220,
-    "timeWeek": 2220,
-    "timeMonth": 2220,
-    "timeYear": 2220,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 1179,
+    "timeDay": 1179,
+    "timeWeek": 1179,
+    "timeMonth": 1179,
+    "timeYear": 1179,
+    "dailyMinutesDown": {
+      "2024-05-13": 0
+    }
   },
   {
     "name": "Bonhams",
@@ -61,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bonhams.com.ico",
     "slug": "bonhams",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 124,
     "timeDay": 124,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-05-13": 31
+      "2024-05-13": 42
     }
   },
   {
