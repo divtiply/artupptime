@@ -16,7 +16,7 @@
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-14": 63,
+      "2024-05-14": 138,
       "2024-05-13": 275
     }
   },
@@ -44,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phillips.com.ico",
     "slug": "phillips",
     "status": "up",
-    "uptime": "97.94%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "97.94%",
+    "uptime": "98.12%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.12%",
     "time": 344,
     "timeDay": 344,
     "timeWeek": 344,
@@ -75,7 +75,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-05-14": 63,
+      "2024-05-14": 138,
       "2024-05-13": 703
     }
   },
@@ -96,7 +96,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-05-14": 63,
+      "2024-05-14": 138,
       "2024-05-13": 275
     }
   },
@@ -117,7 +117,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-05-14": 63,
+      "2024-05-14": 138,
       "2024-05-13": 275
     }
   },
@@ -156,7 +156,7 @@
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2024-05-14": 63,
+      "2024-05-14": 138,
       "2024-05-13": 458
     }
   },
@@ -177,7 +177,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-05-14": 63,
+      "2024-05-14": 138,
       "2024-05-13": 458
     }
   },
@@ -792,7 +792,7 @@
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-05-14": 64,
+      "2024-05-14": 139,
       "2024-05-13": 457
     }
   },
@@ -993,7 +993,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-05-14": 64,
+      "2024-05-14": 139,
       "2024-05-13": 274
     }
   },
@@ -1014,7 +1014,7 @@
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-05-14": 64,
+      "2024-05-14": 139,
       "2024-05-13": 457
     }
   },
@@ -1089,7 +1089,7 @@
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-05-14": 64,
+      "2024-05-14": 139,
       "2024-05-13": 457
     }
   },
@@ -1200,7 +1200,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-05-14": 64,
+      "2024-05-14": 139,
       "2024-05-13": 456
     }
   },
@@ -1497,17 +1497,19 @@
     "url": "https://artfacts.net/",
     "icon": "https://icons.duckduckgo.com/ip3/artfacts.net.ico",
     "slug": "artfacts",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 600,
     "timeDay": 600,
     "timeWeek": 600,
     "timeMonth": 600,
     "timeYear": 600,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-14": 1
+    }
   }
 ]
