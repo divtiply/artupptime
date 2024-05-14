@@ -16,7 +16,7 @@
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-14": 703,
+      "2024-05-14": 708,
       "2024-05-13": 275
     }
   },
@@ -75,7 +75,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-05-14": 703,
+      "2024-05-14": 708,
       "2024-05-13": 703
     }
   },
@@ -96,7 +96,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-05-14": 703,
+      "2024-05-14": 708,
       "2024-05-13": 275
     }
   },
@@ -117,7 +117,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-05-14": 703,
+      "2024-05-14": 708,
       "2024-05-13": 275
     }
   },
@@ -156,7 +156,7 @@
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2024-05-14": 703,
+      "2024-05-14": 708,
       "2024-05-13": 458
     }
   },
@@ -177,7 +177,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-05-14": 703,
+      "2024-05-14": 708,
       "2024-05-13": 458
     }
   },
@@ -792,7 +792,7 @@
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-05-14": 704,
+      "2024-05-14": 709,
       "2024-05-13": 457
     }
   },
@@ -838,11 +838,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.menziesartbrands.com.ico",
     "slug": "menzies",
     "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.34%",
+    "uptime": "98.35%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.35%",
     "time": 1177,
     "timeDay": 1177,
     "timeWeek": 1177,
@@ -995,7 +995,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-05-14": 704,
+      "2024-05-14": 709,
       "2024-05-13": 274
     }
   },
@@ -1016,7 +1016,7 @@
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-05-14": 704,
+      "2024-05-14": 709,
       "2024-05-13": 457
     }
   },
@@ -1091,7 +1091,7 @@
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-05-14": 704,
+      "2024-05-14": 709,
       "2024-05-13": 457
     }
   },
@@ -1202,7 +1202,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-05-14": 704,
+      "2024-05-14": 709,
       "2024-05-13": 456
     }
   },
@@ -1337,19 +1337,19 @@
     "url": "https://artchart.net/en",
     "icon": "https://icons.duckduckgo.com/ip3/artchart.net.ico",
     "slug": "artchart",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 9067,
-    "timeDay": 9067,
-    "timeWeek": 9067,
-    "timeMonth": 9067,
-    "timeYear": 9067,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 8207,
+    "timeDay": 8207,
+    "timeWeek": 8207,
+    "timeMonth": 8207,
+    "timeYear": 8207,
     "dailyMinutesDown": {
-      "2024-05-14": 1
+      "2024-05-14": 5
     }
   },
   {
