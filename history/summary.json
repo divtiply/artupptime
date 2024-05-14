@@ -16,7 +16,7 @@
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-14": 1074,
+      "2024-05-14": 1078,
       "2024-05-13": 275
     }
   },
@@ -75,7 +75,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-05-14": 1075,
+      "2024-05-14": 1078,
       "2024-05-13": 703
     }
   },
@@ -96,7 +96,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-05-14": 1075,
+      "2024-05-14": 1078,
       "2024-05-13": 275
     }
   },
@@ -117,7 +117,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-05-14": 1075,
+      "2024-05-14": 1078,
       "2024-05-13": 275
     }
   },
@@ -156,7 +156,7 @@
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2024-05-14": 1075,
+      "2024-05-14": 1078,
       "2024-05-13": 458
     }
   },
@@ -177,7 +177,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-05-14": 1075,
+      "2024-05-14": 1078,
       "2024-05-13": 458
     }
   },
@@ -672,19 +672,19 @@
     "url": "https://www.aguttes.com/en/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.aguttes.com.ico",
     "slug": "aguttes",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 949,
-    "timeDay": 863,
-    "timeWeek": 949,
-    "timeMonth": 949,
-    "timeYear": 949,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 909,
+    "timeDay": 832,
+    "timeWeek": 909,
+    "timeMonth": 909,
+    "timeYear": 909,
     "dailyMinutesDown": {
-      "2024-05-14": 2
+      "2024-05-14": 4
     }
   },
   {
@@ -794,7 +794,7 @@
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-05-14": 1075,
+      "2024-05-14": 1078,
       "2024-05-13": 457
     }
   },
@@ -997,7 +997,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-05-14": 1075,
+      "2024-05-14": 1078,
       "2024-05-13": 274
     }
   },
@@ -1018,7 +1018,7 @@
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-05-14": 1075,
+      "2024-05-14": 1078,
       "2024-05-13": 457
     }
   },
@@ -1093,7 +1093,7 @@
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-05-14": 1075,
+      "2024-05-14": 1078,
       "2024-05-13": 457
     }
   },
@@ -1204,7 +1204,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-05-14": 1075,
+      "2024-05-14": 1078,
       "2024-05-13": 456
     }
   },
