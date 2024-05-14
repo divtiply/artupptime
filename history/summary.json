@@ -16,7 +16,7 @@
     "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 275
     }
   },
@@ -75,7 +75,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 703
     }
   },
@@ -96,7 +96,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 275
     }
   },
@@ -117,7 +117,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 275
     }
   },
@@ -156,7 +156,7 @@
     "timeMonth": 679,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 458
     }
   },
@@ -177,7 +177,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 458
     }
   },
@@ -792,7 +792,7 @@
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 457
     }
   },
@@ -838,11 +838,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.menziesartbrands.com.ico",
     "slug": "menzies",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "98.87%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
     "time": 1156,
     "timeDay": 1223,
     "timeWeek": 1156,
@@ -911,19 +911,19 @@
     "url": "https://www.ader-paris.fr/en/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.ader-paris.fr.ico",
     "slug": "ader",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 7301,
-    "timeDay": 23513,
-    "timeWeek": 7301,
-    "timeMonth": 7301,
-    "timeYear": 7301,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 6286,
+    "timeDay": 12362,
+    "timeWeek": 6286,
+    "timeMonth": 6286,
+    "timeYear": 6286,
     "dailyMinutesDown": {
-      "2024-05-14": 1
+      "2024-05-14": 4
     }
   },
   {
@@ -997,7 +997,7 @@
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 274
     }
   },
@@ -1018,7 +1018,7 @@
     "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 457
     }
   },
@@ -1093,7 +1093,7 @@
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 457
     }
   },
@@ -1204,7 +1204,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-14": 1427,
+      "2024-05-14": 1431,
       "2024-05-13": 456
     }
   },
