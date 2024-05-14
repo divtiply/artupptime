@@ -16,7 +16,7 @@
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 448,
       "2024-05-13": 275
     }
   },
@@ -44,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phillips.com.ico",
     "slug": "phillips",
     "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "98.62%",
+    "uptime": "98.63%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
     "time": 344,
     "timeDay": 344,
     "timeWeek": 344,
@@ -75,7 +75,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 448,
       "2024-05-13": 703
     }
   },
@@ -96,7 +96,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 448,
       "2024-05-13": 275
     }
   },
@@ -117,7 +117,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 448,
       "2024-05-13": 275
     }
   },
@@ -156,7 +156,7 @@
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 448,
       "2024-05-13": 458
     }
   },
@@ -177,7 +177,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 448,
       "2024-05-13": 458
     }
   },
@@ -348,18 +348,20 @@
     "url": "https://www.ansorena.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.ansorena.com.ico",
     "slug": "ansorena",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 676,
-    "timeWeek": 676,
-    "timeMonth": 676,
-    "timeYear": 676,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 651,
+    "timeDay": 651,
+    "timeWeek": 651,
+    "timeMonth": 651,
+    "timeYear": 651,
+    "dailyMinutesDown": {
+      "2024-05-14": 2
+    }
   },
   {
     "name": "Rago - Rago Wright Network",
@@ -792,7 +794,7 @@
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 449,
       "2024-05-13": 457
     }
   },
@@ -838,11 +840,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.menziesartbrands.com.ico",
     "slug": "menzies",
     "status": "up",
-    "uptime": "97.74%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "97.74%",
-    "uptimeYear": "97.74%",
+    "uptime": "97.75%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "97.75%",
     "time": 1177,
     "timeDay": 1177,
     "timeWeek": 1177,
@@ -995,7 +997,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 449,
       "2024-05-13": 274
     }
   },
@@ -1016,7 +1018,7 @@
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 449,
       "2024-05-13": 457
     }
   },
@@ -1091,7 +1093,7 @@
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 449,
       "2024-05-13": 457
     }
   },
@@ -1202,7 +1204,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-05-14": 443,
+      "2024-05-14": 449,
       "2024-05-13": 456
     }
   },
@@ -1338,19 +1340,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/artchart.net.ico",
     "slug": "artchart",
     "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 7787,
     "timeDay": 7787,
     "timeWeek": 7787,
     "timeMonth": 7787,
     "timeYear": 7787,
-    "dailyMinutesDown": {
-      "2024-05-14": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ArtPro",
@@ -1502,11 +1502,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/artfacts.net.ico",
     "slug": "artfacts",
     "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "98.19%",
+    "uptime": "98.20%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "98.20%",
+    "uptimeYear": "98.20%",
     "time": 576,
     "timeDay": 576,
     "timeWeek": 576,
