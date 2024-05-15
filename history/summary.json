@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "down",
-    "uptime": "7.76%",
+    "uptime": "7.72%",
     "uptimeDay": "15.05%",
-    "uptimeWeek": "7.76%",
-    "uptimeMonth": "7.76%",
-    "uptimeYear": "7.76%",
+    "uptimeWeek": "7.72%",
+    "uptimeMonth": "7.72%",
+    "uptimeYear": "7.72%",
     "time": 267,
     "timeDay": 270,
     "timeWeek": 267,
     "timeMonth": 267,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-05-15": 861,
+      "2024-05-15": 874,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -76,7 +76,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-05-15": 1078,
+      "2024-05-15": 1091,
       "2024-05-14": 1440,
       "2024-05-13": 703
     }
@@ -98,7 +98,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-05-15": 1078,
+      "2024-05-15": 1091,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -120,7 +120,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-05-15": 1078,
+      "2024-05-15": 1091,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -160,7 +160,7 @@
     "timeMonth": 679,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-05-15": 1078,
+      "2024-05-15": 1091,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -182,7 +182,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-05-15": 1078,
+      "2024-05-15": 1091,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -798,7 +798,7 @@
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-05-15": 1078,
+      "2024-05-15": 1091,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1002,7 +1002,7 @@
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-05-15": 1078,
+      "2024-05-15": 1091,
       "2024-05-14": 1440,
       "2024-05-13": 274
     }
@@ -1013,18 +1013,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.forumauctions.co.uk.ico",
     "slug": "forum-auctions",
     "status": "down",
-    "uptime": "0.96%",
+    "uptime": "0.95%",
     "uptimeDay": "1.97%",
-    "uptimeWeek": "0.96%",
-    "uptimeMonth": "0.96%",
-    "uptimeYear": "0.96%",
+    "uptimeWeek": "0.95%",
+    "uptimeMonth": "0.95%",
+    "uptimeYear": "0.95%",
     "time": 611,
     "timeDay": 711,
     "timeWeek": 611,
     "timeMonth": 611,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-05-15": 1050,
+      "2024-05-15": 1063,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1089,18 +1089,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roseberys.co.uk.ico",
     "slug": "roseberys",
     "status": "down",
-    "uptime": "0.96%",
+    "uptime": "0.95%",
     "uptimeDay": "1.97%",
-    "uptimeWeek": "0.96%",
-    "uptimeMonth": "0.96%",
-    "uptimeYear": "0.96%",
+    "uptimeWeek": "0.95%",
+    "uptimeMonth": "0.95%",
+    "uptimeYear": "0.95%",
     "time": 858,
     "timeDay": 1102,
     "timeWeek": 858,
     "timeMonth": 858,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2024-05-15": 1050,
+      "2024-05-15": 1063,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1212,7 +1212,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-15": 1078,
+      "2024-05-15": 1091,
       "2024-05-14": 1440,
       "2024-05-13": 456
     }
@@ -1348,18 +1348,20 @@
     "url": "https://artchart.net/en",
     "icon": "https://icons.duckduckgo.com/ip3/artchart.net.ico",
     "slug": "artchart",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 8317,
-    "timeDay": 8267,
-    "timeWeek": 8317,
-    "timeMonth": 8317,
-    "timeYear": 8317,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 8638,
+    "timeDay": 8885,
+    "timeWeek": 8638,
+    "timeMonth": 8638,
+    "timeYear": 8638,
+    "dailyMinutesDown": {
+      "2024-05-15": 0
+    }
   },
   {
     "name": "ArtPro",
@@ -1511,11 +1513,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/artfacts.net.ico",
     "slug": "artfacts",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 566,
     "timeDay": 513,
     "timeWeek": 566,
