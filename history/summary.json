@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "down",
-    "uptime": "7.28%",
+    "uptime": "7.25%",
     "uptimeDay": "15.05%",
-    "uptimeWeek": "7.28%",
-    "uptimeMonth": "7.28%",
-    "uptimeYear": "7.28%",
+    "uptimeWeek": "7.25%",
+    "uptimeMonth": "7.25%",
+    "uptimeYear": "7.25%",
     "time": 267,
     "timeDay": 270,
     "timeWeek": 267,
     "timeMonth": 267,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-05-15": 1044,
+      "2024-05-15": 1056,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -76,7 +76,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-05-15": 1261,
+      "2024-05-15": 1273,
       "2024-05-14": 1440,
       "2024-05-13": 703
     }
@@ -98,7 +98,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-05-15": 1261,
+      "2024-05-15": 1273,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -120,7 +120,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-05-15": 1261,
+      "2024-05-15": 1273,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -160,7 +160,7 @@
     "timeMonth": 679,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-05-15": 1261,
+      "2024-05-15": 1273,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -182,7 +182,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-05-15": 1261,
+      "2024-05-15": 1273,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -798,7 +798,7 @@
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-05-15": 1261,
+      "2024-05-15": 1273,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -845,11 +845,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.menziesartbrands.com.ico",
     "slug": "menzies",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 1122,
     "timeDay": 1039,
     "timeWeek": 1122,
@@ -1002,7 +1002,7 @@
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-05-15": 1261,
+      "2024-05-15": 1273,
       "2024-05-14": 1440,
       "2024-05-13": 274
     }
@@ -1024,7 +1024,7 @@
     "timeMonth": 611,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-05-15": 1233,
+      "2024-05-15": 1245,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1100,7 +1100,7 @@
     "timeMonth": 858,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2024-05-15": 1233,
+      "2024-05-15": 1245,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1212,7 +1212,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-15": 1261,
+      "2024-05-15": 1273,
       "2024-05-14": 1440,
       "2024-05-13": 456
     }
@@ -1348,19 +1348,19 @@
     "url": "https://artchart.net/en",
     "icon": "https://icons.duckduckgo.com/ip3/artchart.net.ico",
     "slug": "artchart",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
-    "time": 8727,
-    "timeDay": 8974,
-    "timeWeek": 8727,
-    "timeMonth": 8727,
-    "timeYear": 8727,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 8565,
+    "timeDay": 8693,
+    "timeWeek": 8565,
+    "timeMonth": 8565,
+    "timeYear": 8565,
     "dailyMinutesDown": {
-      "2024-05-15": 20
+      "2024-05-15": 31
     }
   },
   {
@@ -1513,11 +1513,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/artfacts.net.ico",
     "slug": "artfacts",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 566,
     "timeDay": 513,
     "timeWeek": 566,
