@@ -4,19 +4,19 @@
     "url": "https://www.christies.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
-    "status": "up",
-    "uptime": "8.56%",
-    "uptimeDay": "14.41%",
-    "uptimeWeek": "8.56%",
-    "uptimeMonth": "8.56%",
-    "uptimeYear": "8.56%",
-    "time": 269,
-    "timeDay": 273,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "status": "down",
+    "uptime": "8.90%",
+    "uptimeDay": "15.05%",
+    "uptimeWeek": "8.90%",
+    "uptimeMonth": "8.90%",
+    "uptimeYear": "8.90%",
+    "time": 267,
+    "timeDay": 270,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-05-15": 501,
+      "2024-05-15": 503,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -76,7 +76,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-05-15": 709,
+      "2024-05-15": 719,
       "2024-05-14": 1440,
       "2024-05-13": 703
     }
@@ -98,7 +98,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-05-15": 709,
+      "2024-05-15": 719,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -120,7 +120,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-05-15": 709,
+      "2024-05-15": 719,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -160,7 +160,7 @@
     "timeMonth": 679,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-05-15": 709,
+      "2024-05-15": 719,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -182,7 +182,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-05-15": 709,
+      "2024-05-15": 719,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -798,7 +798,7 @@
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-05-15": 709,
+      "2024-05-15": 719,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1002,7 +1002,7 @@
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-05-15": 709,
+      "2024-05-15": 720,
       "2024-05-14": 1440,
       "2024-05-13": 274
     }
@@ -1024,7 +1024,7 @@
     "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-05-15": 709,
+      "2024-05-15": 720,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1100,7 +1100,7 @@
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-05-15": 709,
+      "2024-05-15": 720,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1212,7 +1212,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-15": 709,
+      "2024-05-15": 720,
       "2024-05-14": 1440,
       "2024-05-13": 456
     }
