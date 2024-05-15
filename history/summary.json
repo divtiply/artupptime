@@ -4,19 +4,19 @@
     "url": "https://www.christies.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
-    "status": "down",
-    "uptime": "6.77%",
-    "uptimeDay": "10.77%",
-    "uptimeWeek": "6.77%",
-    "uptimeMonth": "6.77%",
-    "uptimeYear": "6.77%",
-    "time": 260,
-    "timeDay": 264,
-    "timeWeek": 260,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "status": "up",
+    "uptime": "6.80%",
+    "uptimeDay": "10.88%",
+    "uptimeWeek": "6.80%",
+    "uptimeMonth": "6.80%",
+    "uptimeYear": "6.80%",
+    "time": 266,
+    "timeDay": 271,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-05-15": 423,
+      "2024-05-15": 432,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -76,7 +76,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-05-15": 578,
+      "2024-05-15": 589,
       "2024-05-14": 1440,
       "2024-05-13": 703
     }
@@ -98,7 +98,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-05-15": 578,
+      "2024-05-15": 589,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -120,7 +120,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-05-15": 578,
+      "2024-05-15": 589,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -160,7 +160,7 @@
     "timeMonth": 679,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-05-15": 578,
+      "2024-05-15": 589,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -182,7 +182,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-05-15": 578,
+      "2024-05-15": 589,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -798,7 +798,7 @@
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-05-15": 578,
+      "2024-05-15": 589,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1002,7 +1002,7 @@
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-05-15": 578,
+      "2024-05-15": 590,
       "2024-05-14": 1440,
       "2024-05-13": 274
     }
@@ -1024,7 +1024,7 @@
     "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-05-15": 578,
+      "2024-05-15": 590,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1100,7 +1100,7 @@
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-05-15": 578,
+      "2024-05-15": 590,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1212,7 +1212,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-15": 578,
+      "2024-05-15": 590,
       "2024-05-14": 1440,
       "2024-05-13": 456
     }
@@ -1511,11 +1511,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/artfacts.net.ico",
     "slug": "artfacts",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 566,
     "timeDay": 513,
     "timeWeek": 566,
