@@ -4,19 +4,19 @@
     "url": "https://www.christies.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
-    "status": "down",
-    "uptime": "4.22%",
-    "uptimeDay": "6.06%",
-    "uptimeWeek": "4.22%",
-    "uptimeMonth": "4.22%",
-    "uptimeYear": "4.22%",
-    "time": 244,
-    "timeDay": 249,
-    "timeWeek": 244,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "4.27%",
+    "uptimeDay": "6.15%",
+    "uptimeWeek": "4.27%",
+    "uptimeMonth": "4.27%",
+    "uptimeYear": "4.27%",
+    "time": 249,
+    "timeDay": 254,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2024-05-15": 267,
+      "2024-05-15": 270,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -76,7 +76,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-05-15": 354,
+      "2024-05-15": 359,
       "2024-05-14": 1440,
       "2024-05-13": 703
     }
@@ -98,7 +98,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-05-15": 354,
+      "2024-05-15": 359,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -120,7 +120,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-05-15": 354,
+      "2024-05-15": 359,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -160,7 +160,7 @@
     "timeMonth": 679,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-05-15": 354,
+      "2024-05-15": 359,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -182,7 +182,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-05-15": 354,
+      "2024-05-15": 359,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -798,7 +798,7 @@
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-05-15": 354,
+      "2024-05-15": 359,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -845,11 +845,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.menziesartbrands.com.ico",
     "slug": "menzies",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
     "time": 1156,
     "timeDay": 1092,
     "timeWeek": 1156,
@@ -1002,7 +1002,7 @@
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-05-15": 354,
+      "2024-05-15": 359,
       "2024-05-14": 1440,
       "2024-05-13": 274
     }
@@ -1024,7 +1024,7 @@
     "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-05-15": 354,
+      "2024-05-15": 359,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1100,7 +1100,7 @@
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-05-15": 354,
+      "2024-05-15": 359,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1212,7 +1212,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-15": 354,
+      "2024-05-15": 359,
       "2024-05-14": 1440,
       "2024-05-13": 456
     }
