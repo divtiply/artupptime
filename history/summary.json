@@ -4,19 +4,19 @@
     "url": "https://www.christies.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
-    "status": "up",
-    "uptime": "0.08%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
-    "time": 297,
-    "timeDay": 372,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "status": "down",
+    "uptime": "1.21%",
+    "uptimeDay": "1.67%",
+    "uptimeWeek": "1.21%",
+    "uptimeMonth": "1.21%",
+    "uptimeYear": "1.21%",
+    "time": 278,
+    "timeDay": 315,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2024-05-15": 249,
+      "2024-05-15": 250,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phillips.com.ico",
     "slug": "phillips",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 363,
     "timeDay": 410,
     "timeWeek": 363,
@@ -76,7 +76,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-05-15": 250,
+      "2024-05-15": 274,
       "2024-05-14": 1440,
       "2024-05-13": 703
     }
@@ -98,7 +98,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-05-15": 250,
+      "2024-05-15": 274,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -120,7 +120,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-05-15": 250,
+      "2024-05-15": 274,
       "2024-05-14": 1440,
       "2024-05-13": 275
     }
@@ -160,7 +160,7 @@
     "timeMonth": 679,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-05-15": 250,
+      "2024-05-15": 274,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -182,7 +182,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-05-15": 250,
+      "2024-05-15": 274,
       "2024-05-14": 1440,
       "2024-05-13": 458
     }
@@ -798,7 +798,7 @@
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-05-15": 251,
+      "2024-05-15": 274,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -845,11 +845,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.menziesartbrands.com.ico",
     "slug": "menzies",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "98.87%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 1156,
     "timeDay": 1223,
     "timeWeek": 1156,
@@ -1002,7 +1002,7 @@
     "timeMonth": 162,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-05-15": 251,
+      "2024-05-15": 274,
       "2024-05-14": 1440,
       "2024-05-13": 274
     }
@@ -1024,7 +1024,7 @@
     "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-05-15": 251,
+      "2024-05-15": 274,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1100,7 +1100,7 @@
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-05-15": 251,
+      "2024-05-15": 274,
       "2024-05-14": 1440,
       "2024-05-13": 457
     }
@@ -1212,7 +1212,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-15": 251,
+      "2024-05-15": 275,
       "2024-05-14": 1440,
       "2024-05-13": 456
     }
@@ -1511,11 +1511,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/artfacts.net.ico",
     "slug": "artfacts",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
     "time": 566,
     "timeDay": 513,
     "timeWeek": 566,
