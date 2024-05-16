@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "down",
-    "uptime": "5.13%",
+    "uptime": "5.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.13%",
-    "uptimeMonth": "5.13%",
-    "uptimeYear": "5.13%",
+    "uptimeWeek": "5.12%",
+    "uptimeMonth": "5.12%",
+    "uptimeYear": "5.12%",
     "time": 266,
     "timeDay": 250,
     "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-05-16": 1069,
+      "2024-05-16": 1074,
       "2024-05-15": 1223,
       "2024-05-14": 1440,
       "2024-05-13": 275
@@ -77,7 +77,7 @@
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-05-16": 1069,
+      "2024-05-16": 1074,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 703
@@ -100,7 +100,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-16": 1069,
+      "2024-05-16": 1074,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 275
@@ -123,7 +123,7 @@
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-05-16": 1069,
+      "2024-05-16": 1074,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 275
@@ -164,7 +164,7 @@
     "timeMonth": 658,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2024-05-16": 1069,
+      "2024-05-16": 1074,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 458
@@ -187,7 +187,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-05-16": 1069,
+      "2024-05-16": 1074,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 458
@@ -804,7 +804,7 @@
     "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-05-16": 1070,
+      "2024-05-16": 1074,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 457
@@ -1009,7 +1009,7 @@
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-05-16": 1070,
+      "2024-05-16": 1074,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 274
@@ -1021,18 +1021,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.forumauctions.co.uk.ico",
     "slug": "forum-auctions",
     "status": "down",
-    "uptime": "0.65%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "0.65%",
-    "uptimeYear": "0.65%",
+    "uptime": "0.64%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.64%",
+    "uptimeYear": "0.64%",
     "time": 594,
-    "timeDay": 740,
+    "timeDay": 601,
     "timeWeek": 594,
     "timeMonth": 594,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2024-05-16": 1070,
+      "2024-05-16": 1074,
       "2024-05-15": 1412,
       "2024-05-14": 1440,
       "2024-05-13": 457
@@ -1098,18 +1098,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roseberys.co.uk.ico",
     "slug": "roseberys",
     "status": "down",
-    "uptime": "0.65%",
-    "uptimeDay": "0.52%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "0.65%",
-    "uptimeYear": "0.65%",
+    "uptime": "0.64%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.64%",
+    "uptimeYear": "0.64%",
     "time": 820,
-    "timeDay": 920,
+    "timeDay": 680,
     "timeWeek": 820,
     "timeMonth": 820,
     "timeYear": 820,
     "dailyMinutesDown": {
-      "2024-05-16": 1070,
+      "2024-05-16": 1074,
       "2024-05-15": 1412,
       "2024-05-14": 1440,
       "2024-05-13": 457
@@ -1222,7 +1222,7 @@
     "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2024-05-16": 1070,
+      "2024-05-16": 1074,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 456
@@ -1359,19 +1359,19 @@
     "url": "https://artchart.net/en",
     "icon": "https://icons.duckduckgo.com/ip3/artchart.net.ico",
     "slug": "artchart",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
-    "time": 8783,
-    "timeDay": 9177,
-    "timeWeek": 8783,
-    "timeMonth": 8783,
-    "timeYear": 8783,
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
+    "time": 8640,
+    "timeDay": 8903,
+    "timeWeek": 8640,
+    "timeMonth": 8640,
+    "timeYear": 8640,
     "dailyMinutesDown": {
-      "2024-05-16": 24,
+      "2024-05-16": 28,
       "2024-05-15": 19
     }
   },
