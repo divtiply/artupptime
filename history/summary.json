@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "7.55%",
-    "uptimeDay": "8.50%",
-    "uptimeWeek": "7.55%",
-    "uptimeMonth": "7.55%",
-    "uptimeYear": "7.55%",
+    "uptime": "8.07%",
+    "uptimeDay": "10.26%",
+    "uptimeWeek": "8.07%",
+    "uptimeMonth": "8.07%",
+    "uptimeYear": "8.07%",
     "time": 263,
     "timeDay": 222,
     "timeWeek": 263,
@@ -77,7 +77,7 @@
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-05-16": 1337,
+      "2024-05-16": 1362,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 703
@@ -100,7 +100,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-05-16": 1337,
+      "2024-05-16": 1362,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 275
@@ -123,7 +123,7 @@
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-05-16": 1337,
+      "2024-05-16": 1362,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 275
@@ -164,7 +164,7 @@
     "timeMonth": 658,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2024-05-16": 1337,
+      "2024-05-16": 1362,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 458
@@ -187,7 +187,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-05-16": 1337,
+      "2024-05-16": 1362,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 458
@@ -649,19 +649,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.karlundfaber.de.ico",
     "slug": "karl-and-faber",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 691,
     "timeDay": 760,
     "timeWeek": 691,
     "timeMonth": 691,
     "timeYear": 691,
-    "dailyMinutesDown": {
-      "2024-05-16": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Polswiss Art",
@@ -806,7 +804,7 @@
     "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-05-16": 1337,
+      "2024-05-16": 1362,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 457
@@ -981,18 +979,20 @@
     "url": "https://lehr-kunstauktionen.de/en/",
     "icon": "https://icons.duckduckgo.com/ip3/lehr-kunstauktionen.de.ico",
     "slug": "lehr-kunstauktionen",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1737,
     "timeDay": 1563,
     "timeWeek": 1737,
     "timeMonth": 1737,
     "timeYear": 1737,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-16": 1
+    }
   },
   {
     "name": "Casa d'aste Farsettiarte",
@@ -1011,7 +1011,7 @@
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-05-16": 1337,
+      "2024-05-16": 1362,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 274
@@ -1034,7 +1034,7 @@
     "timeMonth": 594,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2024-05-16": 1337,
+      "2024-05-16": 1362,
       "2024-05-15": 1412,
       "2024-05-14": 1440,
       "2024-05-13": 457
@@ -1111,7 +1111,7 @@
     "timeMonth": 820,
     "timeYear": 820,
     "dailyMinutesDown": {
-      "2024-05-16": 1337,
+      "2024-05-16": 1362,
       "2024-05-15": 1412,
       "2024-05-14": 1440,
       "2024-05-13": 457
@@ -1224,7 +1224,7 @@
     "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2024-05-16": 1337,
+      "2024-05-16": 1362,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 456
@@ -1362,11 +1362,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/artchart.net.ico",
     "slug": "artchart",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "98.42%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 8852,
     "timeDay": 9095,
     "timeWeek": 8852,
