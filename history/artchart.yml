@@ -1,7 +1,7 @@
 url: https://artchart.net/en
-status: up
-code: 200
-responseTime: 1567
-lastUpdated: 2024-05-17T09:31:37.029Z
+status: down
+code: 504
+responseTime: 15605
+lastUpdated: 2024-05-17T13:47:21.343Z
 startTime: 2024-05-13T19:26:19.127Z
 generator: Upptime <https://github.com/upptime/upptime>
