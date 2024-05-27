@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "78.64%",
+    "uptime": "78.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.64%",
-    "uptimeYear": "78.64%",
+    "uptimeMonth": "78.72%",
+    "uptimeYear": "78.72%",
     "time": 269,
     "timeDay": 180,
     "timeWeek": 314,
@@ -80,7 +80,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-05-27": 449,
+      "2024-05-27": 518,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -114,7 +114,7 @@
     "timeMonth": 80,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-05-27": 449,
+      "2024-05-27": 518,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -148,7 +148,7 @@
     "timeMonth": 80,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-05-27": 449,
+      "2024-05-27": 518,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -200,7 +200,7 @@
     "timeMonth": 654,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-05-27": 449,
+      "2024-05-27": 518,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -234,7 +234,7 @@
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-05-27": 449,
+      "2024-05-27": 518,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -870,7 +870,7 @@
     "timeMonth": 187,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-05-27": 450,
+      "2024-05-27": 518,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -1004,10 +1004,10 @@
     "url": "https://www.ader-paris.fr/en/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.ader-paris.fr.ico",
     "slug": "ader",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2954,
@@ -1015,7 +1015,9 @@
     "timeWeek": 1074,
     "timeMonth": 2954,
     "timeYear": 2954,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-27": 1
+    }
   },
   {
     "name": "Strauss & Co",
@@ -1088,7 +1090,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-05-27": 450,
+      "2024-05-27": 518,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -1122,7 +1124,7 @@
     "timeMonth": 548,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2024-05-27": 450,
+      "2024-05-27": 519,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -1210,7 +1212,7 @@
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2024-05-27": 450,
+      "2024-05-27": 519,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -1334,7 +1336,7 @@
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-05-27": 450,
+      "2024-05-27": 519,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -1465,18 +1467,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.askart.com.ico",
     "slug": "askart",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 446,
     "timeDay": 395,
     "timeWeek": 473,
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2024-05-27": 5,
       "2024-05-19": 16
     }
   },
@@ -1486,11 +1487,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/artchart.net.ico",
     "slug": "artchart",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
     "time": 8567,
     "timeDay": 1641,
     "timeWeek": 1498,
