@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "84.27%",
+    "uptime": "84.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.27%",
-    "uptimeYear": "84.27%",
+    "uptimeMonth": "84.31%",
+    "uptimeYear": "84.31%",
     "time": 282,
     "timeDay": 314,
     "timeWeek": 342,
@@ -81,7 +81,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-06-01": 210,
+      "2024-06-01": 271,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -120,7 +120,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-06-01": 210,
+      "2024-06-01": 271,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -159,7 +159,7 @@
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2024-06-01": 210,
+      "2024-06-01": 271,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -216,7 +216,7 @@
     "timeMonth": 644,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2024-06-01": 210,
+      "2024-06-01": 271,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -255,7 +255,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-06-01": 210,
+      "2024-06-01": 271,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -355,11 +355,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.my-auction.co.jp.ico",
     "slug": "mainichi-auction",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.26%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "97.82%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "97.83%",
     "time": 1176,
     "timeDay": 917,
     "timeWeek": 1044,
@@ -900,7 +900,7 @@
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-06-01": 210,
+      "2024-06-01": 271,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -1123,7 +1123,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-06-01": 210,
+      "2024-06-01": 271,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -1162,7 +1162,7 @@
     "timeMonth": 529,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-06-01": 210,
+      "2024-06-01": 271,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -1255,7 +1255,7 @@
     "timeMonth": 677,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2024-06-01": 210,
+      "2024-06-01": 271,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -1282,10 +1282,10 @@
     "url": "https://www.tateward.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tateward.com.ico",
     "slug": "tate-ward",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 699,
@@ -1293,7 +1293,9 @@
     "timeWeek": 666,
     "timeMonth": 699,
     "timeYear": 699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-01": 1
+    }
   },
   {
     "name": "Stockholms Auktionsverk",
@@ -1388,7 +1390,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-06-01": 210,
+      "2024-06-01": 271,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
