@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "86.53%",
+    "uptime": "86.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.53%",
-    "uptimeYear": "86.53%",
+    "uptimeMonth": "86.54%",
+    "uptimeYear": "86.54%",
     "time": 282,
     "timeDay": 244,
     "timeWeek": 341,
@@ -81,7 +81,7 @@
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2024-06-04": 309,
+      "2024-06-04": 338,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -123,7 +123,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-06-04": 309,
+      "2024-06-04": 338,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -165,7 +165,7 @@
     "timeMonth": 74,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2024-06-04": 309,
+      "2024-06-04": 338,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -225,7 +225,7 @@
     "timeMonth": 670,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-06-04": 309,
+      "2024-06-04": 338,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -267,7 +267,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-06-04": 309,
+      "2024-06-04": 338,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -916,7 +916,7 @@
     "timeMonth": 183,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-06-04": 309,
+      "2024-06-04": 339,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -1112,19 +1112,19 @@
     "url": "https://lehr-kunstauktionen.de/en/",
     "icon": "https://icons.duckduckgo.com/ip3/lehr-kunstauktionen.de.ico",
     "slug": "lehr-kunstauktionen",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1843,
-    "timeDay": 1438,
-    "timeWeek": 1996,
-    "timeMonth": 1843,
-    "timeYear": 1843,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1853,
+    "timeDay": 1658,
+    "timeWeek": 2007,
+    "timeMonth": 1853,
+    "timeYear": 1853,
     "dailyMinutesDown": {
-      "2024-06-04": 1
+      "2024-06-04": 29
     }
   },
   {
@@ -1144,7 +1144,7 @@
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-06-04": 310,
+      "2024-06-04": 339,
       "2024-06-03": 1435,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -1186,7 +1186,7 @@
     "timeMonth": 532,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-06-04": 310,
+      "2024-06-04": 339,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -1282,7 +1282,7 @@
     "timeMonth": 678,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2024-06-04": 310,
+      "2024-06-04": 339,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -1418,7 +1418,7 @@
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2024-06-04": 310,
+      "2024-06-04": 339,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
