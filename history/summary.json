@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "88.29%",
+    "uptime": "88.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.29%",
-    "uptimeYear": "88.29%",
+    "uptimeMonth": "88.36%",
+    "uptimeYear": "88.36%",
     "time": 284,
     "timeDay": 225,
     "timeWeek": 303,
@@ -83,7 +83,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-06-07": 643,
+      "2024-06-07": 839,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -128,7 +128,7 @@
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-06-07": 643,
+      "2024-06-07": 839,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -173,7 +173,7 @@
     "timeMonth": 74,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2024-06-07": 643,
+      "2024-06-07": 839,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -236,7 +236,7 @@
     "timeMonth": 670,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-06-07": 643,
+      "2024-06-07": 839,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -281,7 +281,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-06-07": 643,
+      "2024-06-07": 839,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -387,11 +387,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.my-auction.co.jp.ico",
     "slug": "mainichi-auction",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.39%",
     "time": 1110,
     "timeDay": 661,
     "timeWeek": 835,
@@ -850,10 +850,10 @@
     "url": "https://www.van-ham.com/en/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.van-ham.com.ico",
     "slug": "van-ham",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1806,
@@ -861,7 +861,9 @@
     "timeWeek": 2661,
     "timeMonth": 1806,
     "timeYear": 1806,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-07": 1
+    }
   },
   {
     "name": "Freeman's",
@@ -934,7 +936,7 @@
     "timeMonth": 186,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-06-07": 643,
+      "2024-06-07": 839,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -1170,7 +1172,7 @@
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-06-07": 643,
+      "2024-06-07": 839,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -1215,7 +1217,7 @@
     "timeMonth": 531,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2024-06-07": 643,
+      "2024-06-07": 839,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -1314,7 +1316,7 @@
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-06-07": 643,
+      "2024-06-07": 839,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -1453,7 +1455,7 @@
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-06-07": 644,
+      "2024-06-07": 839,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -1787,18 +1789,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/artfacts.net.ico",
     "slug": "artfacts",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1446,
     "timeDay": 613,
     "timeWeek": 613,
     "timeMonth": 1446,
     "timeYear": 1446,
     "dailyMinutesDown": {
-      "2024-06-07": 3,
       "2024-06-01": 15,
       "2024-05-14": 16
     }
