@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "89.75%",
+    "uptime": "89.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.75%",
-    "uptimeYear": "89.75%",
+    "uptimeMonth": "89.76%",
+    "uptimeYear": "89.76%",
     "time": 286,
     "timeDay": 229,
     "timeWeek": 308,
@@ -84,7 +84,7 @@
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-06-10": 1366,
+      "2024-06-10": 1389,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -132,7 +132,7 @@
     "timeMonth": 80,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-06-10": 1366,
+      "2024-06-10": 1389,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -180,7 +180,7 @@
     "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2024-06-10": 1366,
+      "2024-06-10": 1389,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -246,7 +246,7 @@
     "timeMonth": 696,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2024-06-10": 1366,
+      "2024-06-10": 1389,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -294,7 +294,7 @@
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-06-10": 1366,
+      "2024-06-10": 1389,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -950,7 +950,7 @@
     "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-06-10": 1366,
+      "2024-06-10": 1389,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -1189,7 +1189,7 @@
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-06-10": 1366,
+      "2024-06-10": 1389,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -1237,7 +1237,7 @@
     "timeMonth": 542,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-06-10": 1366,
+      "2024-06-10": 1389,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -1339,7 +1339,7 @@
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2024-06-10": 1366,
+      "2024-06-10": 1390,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -1481,7 +1481,7 @@
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-06-10": 1366,
+      "2024-06-10": 1390,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -1554,19 +1554,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mutualart.com.ico",
     "slug": "mutualart",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 867,
     "timeDay": 901,
     "timeWeek": 909,
     "timeMonth": 867,
     "timeYear": 867,
-    "dailyMinutesDown": {
-      "2024-06-10": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LiveAuctioneers",
@@ -1709,10 +1707,10 @@
     "url": "https://www.arcadja.com/auctions/en/",
     "icon": "https://icons.duckduckgo.com/ip3/www.arcadja.com.ico",
     "slug": "arcadja",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 1808,
@@ -1721,6 +1719,7 @@
     "timeMonth": 1808,
     "timeYear": 1808,
     "dailyMinutesDown": {
+      "2024-06-10": 1,
       "2024-05-23": 26
     }
   },
