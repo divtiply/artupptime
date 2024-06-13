@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "90.51%",
+    "uptime": "90.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.51%",
-    "uptimeYear": "90.51%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "90.52%",
     "time": 290,
     "timeDay": 237,
     "timeWeek": 321,
@@ -84,7 +84,7 @@
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2024-06-13": 294,
+      "2024-06-13": 314,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -135,7 +135,7 @@
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2024-06-13": 294,
+      "2024-06-13": 314,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -186,7 +186,7 @@
     "timeMonth": 74,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2024-06-13": 295,
+      "2024-06-13": 314,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -255,7 +255,7 @@
     "timeMonth": 692,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-06-13": 295,
+      "2024-06-13": 314,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -306,7 +306,7 @@
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-06-13": 295,
+      "2024-06-13": 314,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -827,19 +827,19 @@
     "url": "https://www.polswissart.pl/pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.polswissart.pl.ico",
     "slug": "polswissart",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1171,
-    "timeDay": 1091,
-    "timeWeek": 1323,
-    "timeMonth": 1171,
-    "timeYear": 1171,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1157,
+    "timeDay": 968,
+    "timeWeek": 1256,
+    "timeMonth": 1157,
+    "timeYear": 1157,
     "dailyMinutesDown": {
-      "2024-06-13": 1
+      "2024-06-13": 20
     }
   },
   {
@@ -967,7 +967,7 @@
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-06-13": 295,
+      "2024-06-13": 314,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -1209,7 +1209,7 @@
     "timeMonth": 153,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-06-13": 295,
+      "2024-06-13": 314,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -1260,7 +1260,7 @@
     "timeMonth": 539,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2024-06-13": 295,
+      "2024-06-13": 314,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -1367,7 +1367,7 @@
     "timeMonth": 675,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2024-06-13": 295,
+      "2024-06-13": 314,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
@@ -1512,7 +1512,7 @@
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-06-13": 295,
+      "2024-06-13": 314,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
