@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "90.94%",
+    "uptime": "90.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.28%",
-    "uptimeYear": "90.94%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "90.96%",
     "time": 290,
     "timeDay": 308,
     "timeWeek": 333,
@@ -84,7 +84,7 @@
     "timeMonth": 75,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-06-14": 934,
+      "2024-06-14": 1012,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -136,7 +136,7 @@
     "timeMonth": 74,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-06-14": 934,
+      "2024-06-14": 1012,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -188,7 +188,7 @@
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-06-14": 934,
+      "2024-06-14": 1012,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -258,7 +258,7 @@
     "timeMonth": 695,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2024-06-14": 934,
+      "2024-06-14": 1012,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -310,7 +310,7 @@
     "timeMonth": 105,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-06-14": 934,
+      "2024-06-14": 1012,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -974,7 +974,7 @@
     "timeMonth": 188,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-06-14": 934,
+      "2024-06-14": 1013,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -1185,10 +1185,10 @@
     "url": "https://lehr-kunstauktionen.de/en/",
     "icon": "https://icons.duckduckgo.com/ip3/lehr-kunstauktionen.de.ico",
     "slug": "lehr-kunstauktionen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 2200,
@@ -1197,6 +1197,7 @@
     "timeMonth": 2246,
     "timeYear": 2200,
     "dailyMinutesDown": {
+      "2024-06-14": 1,
       "2024-06-04": 29
     }
   },
@@ -1217,7 +1218,7 @@
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-06-14": 934,
+      "2024-06-14": 1013,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -1269,7 +1270,7 @@
     "timeMonth": 549,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-06-14": 935,
+      "2024-06-14": 1013,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -1377,7 +1378,7 @@
     "timeMonth": 694,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-06-14": 935,
+      "2024-06-14": 1013,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -1524,7 +1525,7 @@
     "timeMonth": 89,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-06-14": 935,
+      "2024-06-14": 1013,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -1583,19 +1584,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.artnet.com.ico",
     "slug": "artnet",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 89,
     "timeWeek": 87,
     "timeMonth": 112,
     "timeYear": 113,
-    "dailyMinutesDown": {
-      "2024-06-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MutualArt",
