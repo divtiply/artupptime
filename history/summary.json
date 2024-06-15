@@ -8,7 +8,7 @@
     "uptime": "91.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.37%",
+    "uptimeMonth": "96.38%",
     "uptimeYear": "91.24%",
     "time": 294,
     "timeDay": 489,
@@ -56,7 +56,7 @@
     "time": 493,
     "timeDay": 893,
     "timeWeek": 667,
-    "timeMonth": 511,
+    "timeMonth": 514,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2024-06-10": 16,
@@ -84,7 +84,7 @@
     "timeMonth": 73,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-06-15": 1064,
+      "2024-06-15": 1069,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -137,7 +137,7 @@
     "timeMonth": 73,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-06-15": 1064,
+      "2024-06-15": 1069,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -190,7 +190,7 @@
     "timeMonth": 70,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-06-15": 1064,
+      "2024-06-15": 1069,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -261,7 +261,7 @@
     "timeMonth": 694,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-06-15": 1064,
+      "2024-06-15": 1069,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -314,7 +314,7 @@
     "timeMonth": 107,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-06-15": 1064,
+      "2024-06-15": 1069,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -979,7 +979,7 @@
     "timeMonth": 187,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-06-15": 1064,
+      "2024-06-15": 1069,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1137,19 +1137,19 @@
     "url": "https://www.ader-paris.fr/en/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.ader-paris.fr.ico",
     "slug": "ader",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3830,
-    "timeDay": 25529,
-    "timeWeek": 7245,
-    "timeMonth": 3339,
-    "timeYear": 3830,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3759,
+    "timeDay": 17415,
+    "timeWeek": 6572,
+    "timeMonth": 3270,
+    "timeYear": 3759,
     "dailyMinutesDown": {
-      "2024-06-15": 1
+      "2024-06-15": 6
     }
   },
   {
@@ -1225,7 +1225,7 @@
     "timeMonth": 154,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-06-15": 1064,
+      "2024-06-15": 1069,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1275,10 +1275,10 @@
     "time": 543,
     "timeDay": 556,
     "timeWeek": 575,
-    "timeMonth": 546,
+    "timeMonth": 545,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2024-06-15": 1064,
+      "2024-06-15": 1069,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1384,10 +1384,10 @@
     "time": 678,
     "timeDay": 649,
     "timeWeek": 689,
-    "timeMonth": 653,
+    "timeMonth": 655,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2024-06-15": 1064,
+      "2024-06-15": 1070,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1535,7 +1535,7 @@
     "timeMonth": 88,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-06-15": 1064,
+      "2024-06-15": 1070,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1715,7 +1715,7 @@
     "time": 7912,
     "timeDay": 1806,
     "timeWeek": 1828,
-    "timeMonth": 7831,
+    "timeMonth": 7863,
     "timeYear": 7912,
     "dailyMinutesDown": {
       "2024-05-31": 22,
