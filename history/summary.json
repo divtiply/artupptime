@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "91.20%",
+    "uptime": "91.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.85%",
-    "uptimeYear": "91.20%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "91.22%",
     "time": 294,
     "timeDay": 489,
     "timeWeek": 332,
@@ -84,7 +84,7 @@
     "timeMonth": 73,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-06-15": 838,
+      "2024-06-15": 938,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -137,7 +137,7 @@
     "timeMonth": 73,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-06-15": 838,
+      "2024-06-15": 938,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -190,7 +190,7 @@
     "timeMonth": 70,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-06-15": 838,
+      "2024-06-15": 938,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -261,7 +261,7 @@
     "timeMonth": 694,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-06-15": 838,
+      "2024-06-15": 938,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -314,7 +314,7 @@
     "timeMonth": 107,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-06-15": 838,
+      "2024-06-15": 938,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -860,19 +860,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aguttes.com.ico",
     "slug": "aguttes",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2152,
     "timeDay": 22447,
     "timeWeek": 6448,
     "timeMonth": 2469,
     "timeYear": 2152,
-    "dailyMinutesDown": {
-      "2024-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Scottsdale Art Auction",
@@ -981,7 +979,7 @@
     "timeMonth": 187,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-06-15": 838,
+      "2024-06-15": 939,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1081,11 +1079,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.millon.com.ico",
     "slug": "millon",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 906,
     "timeDay": 804,
     "timeWeek": 1076,
@@ -1139,10 +1137,10 @@
     "url": "https://www.ader-paris.fr/en/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.ader-paris.fr.ico",
     "slug": "ader",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3116,
@@ -1150,7 +1148,9 @@
     "timeWeek": 4161,
     "timeMonth": 2460,
     "timeYear": 3116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-15": 1
+    }
   },
   {
     "name": "Strauss & Co",
@@ -1225,7 +1225,7 @@
     "timeMonth": 154,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-06-15": 838,
+      "2024-06-15": 939,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1278,7 +1278,7 @@
     "timeMonth": 554,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2024-06-15": 838,
+      "2024-06-15": 939,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1387,7 +1387,7 @@
     "timeMonth": 698,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2024-06-15": 838,
+      "2024-06-15": 939,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1535,7 +1535,7 @@
     "timeMonth": 88,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-06-15": 838,
+      "2024-06-15": 939,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1601,7 +1601,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 118,
+    "timeDay": 176,
     "timeWeek": 101,
     "timeMonth": 114,
     "timeYear": 115,
