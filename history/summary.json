@@ -48,18 +48,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phillips.com.ico",
     "slug": "phillips",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.71%",
     "time": 493,
     "timeDay": 893,
     "timeWeek": 667,
     "timeMonth": 508,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2024-06-15": 12,
       "2024-06-10": 16,
       "2024-06-01": 16,
       "2024-05-23": 16,
@@ -85,7 +84,7 @@
     "timeMonth": 73,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-06-15": 250,
+      "2024-06-15": 270,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -138,7 +137,7 @@
     "timeMonth": 73,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-06-15": 250,
+      "2024-06-15": 270,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -191,7 +190,7 @@
     "timeMonth": 70,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-06-15": 250,
+      "2024-06-15": 270,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -262,7 +261,7 @@
     "timeMonth": 694,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-06-15": 250,
+      "2024-06-15": 270,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -315,7 +314,7 @@
     "timeMonth": 107,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-06-15": 250,
+      "2024-06-15": 270,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -980,7 +979,7 @@
     "timeMonth": 187,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-06-15": 250,
+      "2024-06-15": 271,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1224,7 +1223,7 @@
     "timeMonth": 154,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-06-15": 250,
+      "2024-06-15": 271,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1277,7 +1276,7 @@
     "timeMonth": 554,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2024-06-15": 250,
+      "2024-06-15": 271,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1386,7 +1385,7 @@
     "timeMonth": 698,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2024-06-15": 250,
+      "2024-06-15": 271,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1427,10 +1426,10 @@
     "url": "https://www.tateward.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tateward.com.ico",
     "slug": "tate-ward",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 765,
@@ -1438,7 +1437,9 @@
     "timeWeek": 925,
     "timeMonth": 772,
     "timeYear": 765,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-15": 1
+    }
   },
   {
     "name": "Stockholms Auktionsverk",
@@ -1534,7 +1535,7 @@
     "timeMonth": 88,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-06-15": 250,
+      "2024-06-15": 271,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
