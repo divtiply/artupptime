@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "91.82%",
+    "uptime": "91.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.82%",
+    "uptimeYear": "91.83%",
     "time": 298,
     "timeDay": 402,
     "timeWeek": 367,
@@ -84,7 +84,7 @@
     "timeMonth": 75,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-06-18": 67,
+      "2024-06-18": 155,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -140,7 +140,7 @@
     "timeMonth": 74,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-06-18": 67,
+      "2024-06-18": 155,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -196,7 +196,7 @@
     "timeMonth": 70,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-06-18": 67,
+      "2024-06-18": 155,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -270,7 +270,7 @@
     "timeMonth": 680,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-06-18": 67,
+      "2024-06-18": 155,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -326,7 +326,7 @@
     "timeMonth": 106,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-06-18": 67,
+      "2024-06-18": 155,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -996,7 +996,7 @@
     "timeMonth": 184,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-06-18": 67,
+      "2024-06-18": 155,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -1058,10 +1058,10 @@
     "url": "https://www.hampel-auctions.com/index.html?la=en",
     "icon": "https://icons.duckduckgo.com/ip3/www.hampel-auctions.com.ico",
     "slug": "hampel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1142,
@@ -1069,7 +1069,9 @@
     "timeWeek": 941,
     "timeMonth": 1211,
     "timeYear": 1142,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 1
+    }
   },
   {
     "name": "Menzies Art Brands",
@@ -1243,7 +1245,7 @@
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-06-18": 67,
+      "2024-06-18": 155,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -1299,7 +1301,7 @@
     "timeMonth": 522,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2024-06-18": 67,
+      "2024-06-18": 155,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -1364,7 +1366,7 @@
     "status": "up",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.50%",
+    "uptimeWeek": "98.61%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.70%",
     "time": 1907,
@@ -1411,7 +1413,7 @@
     "timeMonth": 617,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2024-06-18": 67,
+      "2024-06-18": 156,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -1562,7 +1564,7 @@
     "timeMonth": 87,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-06-18": 67,
+      "2024-06-18": 156,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -1741,12 +1743,12 @@
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.45%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.45%",
     "time": 7820,
     "timeDay": 1350,
     "timeWeek": 1685,
-    "timeMonth": 7064,
+    "timeMonth": 7033,
     "timeYear": 7820,
     "dailyMinutesDown": {
       "2024-05-31": 22,
