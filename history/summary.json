@@ -87,7 +87,7 @@
     "timeMonth": 79,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2024-06-25": 1294,
+      "2024-06-25": 1326,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -150,7 +150,7 @@
     "timeMonth": 74,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2024-06-25": 1294,
+      "2024-06-25": 1326,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -213,7 +213,7 @@
     "timeMonth": 70,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-06-25": 1294,
+      "2024-06-25": 1326,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -294,7 +294,7 @@
     "timeMonth": 661,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2024-06-25": 1294,
+      "2024-06-25": 1326,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -357,7 +357,7 @@
     "timeMonth": 143,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-06-25": 1294,
+      "2024-06-25": 1326,
       "2024-06-24": 1435,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -786,11 +786,11 @@
     "url": "https://www.kollerauktionen.ch/en/home.htm",
     "icon": "https://icons.duckduckgo.com/ip3/www.kollerauktionen.ch.ico",
     "slug": "koller",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.91%",
     "time": 1701,
     "timeDay": 2150,
@@ -798,6 +798,7 @@
     "timeMonth": 1814,
     "timeYear": 1701,
     "dailyMinutesDown": {
+      "2024-06-25": 1,
       "2024-06-21": 32,
       "2024-05-24": 25
     }
@@ -918,19 +919,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aguttes.com.ico",
     "slug": "aguttes",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2232,
     "timeDay": 938,
     "timeWeek": 886,
     "timeMonth": 2847,
     "timeYear": 2232,
-    "dailyMinutesDown": {
-      "2024-06-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Scottsdale Art Auction",
@@ -1041,7 +1040,7 @@
     "timeMonth": 185,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-06-25": 1294,
+      "2024-06-25": 1326,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -1295,7 +1294,7 @@
     "timeMonth": 153,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-06-25": 1295,
+      "2024-06-25": 1326,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -1358,7 +1357,7 @@
     "timeMonth": 510,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2024-06-25": 1295,
+      "2024-06-25": 1326,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -1478,7 +1477,7 @@
     "timeMonth": 596,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2024-06-25": 1295,
+      "2024-06-25": 1326,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -1636,7 +1635,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-06-25": 1295,
+      "2024-06-25": 1326,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
