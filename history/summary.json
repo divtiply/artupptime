@@ -49,9 +49,9 @@
     "slug": "phillips",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.67%",
     "time": 505,
     "timeDay": 245,
@@ -59,7 +59,6 @@
     "timeMonth": 541,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-06-27": 5,
       "2024-06-26": 17,
       "2024-06-25": 15,
       "2024-06-24": 18,
@@ -89,7 +88,7 @@
     "timeMonth": 81,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-06-27": 1135,
+      "2024-06-27": 1180,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -154,7 +153,7 @@
     "timeMonth": 76,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-06-27": 1135,
+      "2024-06-27": 1180,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -219,7 +218,7 @@
     "timeMonth": 70,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-06-27": 1135,
+      "2024-06-27": 1180,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -302,7 +301,7 @@
     "timeMonth": 662,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-06-27": 1135,
+      "2024-06-27": 1180,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -367,7 +366,7 @@
     "timeMonth": 170,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-06-27": 1135,
+      "2024-06-27": 1180,
       "2024-06-26": 1424,
       "2024-06-25": 1440,
       "2024-06-24": 1435,
@@ -1053,7 +1052,7 @@
     "timeMonth": 183,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-06-27": 1136,
+      "2024-06-27": 1180,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -1310,7 +1309,7 @@
     "timeMonth": 158,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-06-27": 1136,
+      "2024-06-27": 1180,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -1375,7 +1374,7 @@
     "timeMonth": 509,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-06-27": 1136,
+      "2024-06-27": 1180,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -1497,7 +1496,7 @@
     "timeMonth": 594,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2024-06-27": 1136,
+      "2024-06-27": 1180,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -1577,7 +1576,7 @@
     "time": 1816,
     "timeDay": 0,
     "timeWeek": 1371,
-    "timeMonth": 1975,
+    "timeMonth": 1968,
     "timeYear": 1816,
     "dailyMinutesDown": {
       "2024-06-14": 36,
@@ -1657,7 +1656,7 @@
     "timeMonth": 99,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-06-27": 1136,
+      "2024-06-27": 1180,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -1764,19 +1763,19 @@
     "url": "https://www.liveauctioneers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.liveauctioneers.com.ico",
     "slug": "liveauctioneers",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 1172,
-    "timeDay": 7708,
-    "timeWeek": 3688,
-    "timeMonth": 1464,
-    "timeYear": 1172,
+    "uptimeYear": "99.97%",
+    "time": 1150,
+    "timeDay": 6449,
+    "timeWeek": 3394,
+    "timeMonth": 1427,
+    "timeYear": 1150,
     "dailyMinutesDown": {
-      "2024-06-27": 16
+      "2024-06-27": 17
     }
   },
   {
