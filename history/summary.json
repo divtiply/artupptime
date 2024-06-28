@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "93.64%",
+    "uptime": "93.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.64%",
+    "uptimeYear": "93.65%",
     "time": 307,
     "timeDay": 352,
     "timeWeek": 325,
@@ -88,7 +88,7 @@
     "timeMonth": 80,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-06-28": 270,
+      "2024-06-28": 277,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -154,7 +154,7 @@
     "timeMonth": 75,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-06-28": 270,
+      "2024-06-28": 278,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -220,7 +220,7 @@
     "timeMonth": 69,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2024-06-28": 271,
+      "2024-06-28": 278,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -304,7 +304,7 @@
     "timeMonth": 656,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-06-28": 271,
+      "2024-06-28": 278,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -370,7 +370,7 @@
     "timeMonth": 172,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-06-28": 271,
+      "2024-06-28": 278,
       "2024-06-27": 1440,
       "2024-06-26": 1424,
       "2024-06-25": 1440,
@@ -1057,7 +1057,7 @@
     "timeMonth": 183,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-06-28": 271,
+      "2024-06-28": 278,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -1315,7 +1315,7 @@
     "timeMonth": 158,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-06-28": 271,
+      "2024-06-28": 278,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -1381,7 +1381,7 @@
     "timeMonth": 507,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-06-28": 271,
+      "2024-06-28": 278,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -1504,7 +1504,7 @@
     "timeMonth": 592,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2024-06-28": 271,
+      "2024-06-28": 278,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -1558,19 +1558,19 @@
     "url": "https://www.tateward.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tateward.com.ico",
     "slug": "tate-ward",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 586,
-    "timeWeek": 639,
-    "timeMonth": 777,
-    "timeYear": 755,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 759,
+    "timeDay": 793,
+    "timeWeek": 690,
+    "timeMonth": 783,
+    "timeYear": 759,
     "dailyMinutesDown": {
-      "2024-06-28": 1
+      "2024-06-28": 7
     }
   },
   {
@@ -1667,7 +1667,7 @@
     "timeMonth": 98,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-06-28": 271,
+      "2024-06-28": 278,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
