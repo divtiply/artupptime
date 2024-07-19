@@ -56,7 +56,7 @@
     "time": 648,
     "timeDay": 1871,
     "timeWeek": 1677,
-    "timeMonth": 916,
+    "timeMonth": 925,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2024-07-19": 26,
@@ -91,7 +91,7 @@
     "timeMonth": 107,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-07-19": 574,
+      "2024-07-19": 581,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -178,7 +178,7 @@
     "timeMonth": 98,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-07-19": 574,
+      "2024-07-19": 581,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -265,7 +265,7 @@
     "timeMonth": 97,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2024-07-19": 574,
+      "2024-07-19": 581,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -370,7 +370,7 @@
     "timeMonth": 596,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2024-07-19": 574,
+      "2024-07-19": 581,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -445,24 +445,24 @@
     "url": "https://www.ha.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ha.com.ico",
     "slug": "heritage-auctions",
-    "status": "up",
-    "uptime": "95.44%",
-    "uptimeDay": "34.86%",
-    "uptimeWeek": "56.57%",
-    "uptimeMonth": "90.01%",
-    "uptimeYear": "95.44%",
+    "status": "down",
+    "uptime": "95.47%",
+    "uptimeDay": "34.98%",
+    "uptimeWeek": "56.82%",
+    "uptimeMonth": "90.06%",
+    "uptimeYear": "95.47%",
     "time": 195,
-    "timeDay": 182,
+    "timeDay": 181,
     "timeWeek": 203,
     "timeMonth": 199,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2024-07-19": 395,
+      "2024-07-19": 398,
       "2024-07-18": 888,
       "2024-07-17": 815,
       "2024-07-16": 905,
       "2024-07-15": 731,
-      "2024-07-14": 648
+      "2024-07-14": 620
     }
   },
   {
@@ -586,18 +586,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heffel.com.ico",
     "slug": "heffel",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.95%",
     "time": 285,
     "timeDay": 463,
     "timeWeek": 248,
     "timeMonth": 240,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2024-07-19": 7,
+      "2024-07-19": 14,
       "2024-05-24": 35
     }
   },
@@ -1120,7 +1120,7 @@
     "timeMonth": 208,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2024-07-19": 575,
+      "2024-07-19": 581,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -1399,7 +1399,7 @@
     "timeMonth": 195,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-07-19": 575,
+      "2024-07-19": 581,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -1486,7 +1486,7 @@
     "timeMonth": 494,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-07-19": 575,
+      "2024-07-19": 581,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -1632,7 +1632,7 @@
     "timeMonth": 568,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-07-19": 575,
+      "2024-07-19": 581,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -1817,7 +1817,7 @@
     "timeMonth": 128,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-07-19": 575,
+      "2024-07-19": 582,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -2006,7 +2006,7 @@
     "uptime": "70.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.40%",
+    "uptimeMonth": "36.39%",
     "uptimeYear": "70.87%",
     "time": 1080,
     "timeDay": 0,
@@ -2014,7 +2014,7 @@
     "timeMonth": 555,
     "timeYear": 1080,
     "dailyMinutesDown": {
-      "2024-07-19": 575,
+      "2024-07-19": 582,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -2054,7 +2054,7 @@
     "uptimeYear": "98.20%",
     "time": 8248,
     "timeDay": 2269,
-    "timeWeek": 8644,
+    "timeWeek": 8683,
     "timeMonth": 8470,
     "timeYear": 8248,
     "dailyMinutesDown": {
