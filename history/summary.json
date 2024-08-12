@@ -102,7 +102,7 @@
     "timeMonth": 101,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-08-12": 1011,
+      "2024-08-12": 1015,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -213,7 +213,7 @@
     "timeMonth": 104,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-08-12": 1011,
+      "2024-08-12": 1015,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -324,7 +324,7 @@
     "timeMonth": 97,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-08-12": 1011,
+      "2024-08-12": 1015,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -453,7 +453,7 @@
     "timeMonth": 668,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-08-12": 1012,
+      "2024-08-12": 1016,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -556,7 +556,7 @@
     "uptime": "74.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "23.25%",
+    "uptimeMonth": "23.24%",
     "uptimeYear": "74.35%",
     "time": 194,
     "timeDay": 96,
@@ -564,7 +564,7 @@
     "timeMonth": 198,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-08-12": 1012,
+      "2024-08-12": 1016,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -1174,7 +1174,7 @@
     "time": 1727,
     "timeDay": 1405,
     "timeWeek": 1538,
-    "timeMonth": 1885,
+    "timeMonth": 1913,
     "timeYear": 1727,
     "dailyMinutesDown": {
       "2024-07-21": 34,
@@ -1257,7 +1257,7 @@
     "timeMonth": 240,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-08-12": 1012,
+      "2024-08-12": 1016,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -1499,19 +1499,19 @@
     "url": "https://www.straussart.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/www.straussart.co.za.ico",
     "slug": "strauss-and-co",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 3448,
-    "timeDay": 3354,
-    "timeWeek": 3536,
-    "timeMonth": 3283,
-    "timeYear": 3448,
+    "time": 3441,
+    "timeDay": 3119,
+    "timeWeek": 3427,
+    "timeMonth": 3268,
+    "timeYear": 3441,
     "dailyMinutesDown": {
-      "2024-08-12": 1
+      "2024-08-12": 4
     }
   },
   {
@@ -1574,7 +1574,7 @@
     "timeMonth": 176,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-08-12": 1012,
+      "2024-08-12": 1016,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -1685,7 +1685,7 @@
     "timeMonth": 561,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2024-08-12": 1012,
+      "2024-08-12": 1016,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -1851,7 +1851,7 @@
     "uptime": "18.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.64%",
+    "uptimeMonth": "53.65%",
     "uptimeYear": "18.59%",
     "time": 759,
     "timeDay": 2391,
@@ -2053,7 +2053,7 @@
     "timeMonth": 127,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-08-12": 1012,
+      "2024-08-12": 1016,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -2327,7 +2327,7 @@
     "time": 8121,
     "timeDay": 4466,
     "timeWeek": 4479,
-    "timeMonth": 7985,
+    "timeMonth": 8004,
     "timeYear": 8121,
     "dailyMinutesDown": {
       "2024-08-12": 133,
