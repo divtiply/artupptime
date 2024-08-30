@@ -107,7 +107,7 @@
     "timeMonth": 87,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-08-30": 641,
+      "2024-08-30": 647,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -236,7 +236,7 @@
     "timeMonth": 103,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-08-30": 641,
+      "2024-08-30": 647,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -365,7 +365,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-08-30": 641,
+      "2024-08-30": 647,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -512,7 +512,7 @@
     "timeMonth": 660,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2024-08-30": 641,
+      "2024-08-30": 647,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -641,7 +641,7 @@
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-08-30": 641,
+      "2024-08-30": 647,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -709,10 +709,10 @@
     "url": "https://www.kettererkunst.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kettererkunst.com.ico",
     "slug": "keterrerkunst",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 1104,
@@ -721,6 +721,7 @@
     "timeMonth": 1127,
     "timeYear": 1104,
     "dailyMinutesDown": {
+      "2024-08-30": 2,
       "2024-08-12": 17,
       "2024-07-16": 57,
       "2024-07-12": 38
@@ -1292,7 +1293,7 @@
     "uptime": "87.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.08%",
+    "uptimeMonth": "56.06%",
     "uptimeYear": "87.66%",
     "time": 151,
     "timeDay": 0,
@@ -1300,7 +1301,7 @@
     "timeMonth": 138,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-08-30": 641,
+      "2024-08-30": 647,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -1372,7 +1373,7 @@
     "timeMonth": 237,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2024-08-30": 641,
+      "2024-08-30": 647,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -1632,19 +1633,19 @@
     "url": "https://www.straussart.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/www.straussart.co.za.ico",
     "slug": "strauss-and-co",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 3448,
-    "timeDay": 2785,
-    "timeWeek": 3661,
-    "timeMonth": 3395,
-    "timeYear": 3448,
+    "time": 3446,
+    "timeDay": 3037,
+    "timeWeek": 3615,
+    "timeMonth": 3390,
+    "timeYear": 3446,
     "dailyMinutesDown": {
-      "2024-08-30": 1
+      "2024-08-30": 6
     }
   },
   {
@@ -1707,7 +1708,7 @@
     "timeMonth": 177,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-08-30": 641,
+      "2024-08-30": 647,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -1836,7 +1837,7 @@
     "timeMonth": 607,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-08-30": 641,
+      "2024-08-30": 647,
       "2024-08-29": 1440,
       "2024-08-28": 63,
       "2024-08-27": 876,
@@ -2223,7 +2224,7 @@
     "timeMonth": 124,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-08-30": 641,
+      "2024-08-30": 647,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
