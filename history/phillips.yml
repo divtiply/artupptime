@@ -1,7 +1,7 @@
 url: https://www.phillips.com/
-status: up
-code: 200
-responseTime: 2823
-lastUpdated: 2024-09-09T17:00:39.233Z
+status: down
+code: 500
+responseTime: 166
+lastUpdated: 2024-09-09T21:41:47.929Z
 startTime: 2024-05-13T12:17:24.970Z
 generator: Upptime <https://github.com/upptime/upptime>
