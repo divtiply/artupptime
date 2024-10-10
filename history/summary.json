@@ -126,7 +126,7 @@
     "timeMonth": 105,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-10-10": 1198,
+      "2024-10-10": 1213,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -296,7 +296,7 @@
     "timeMonth": 99,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-10-10": 1198,
+      "2024-10-10": 1213,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -466,7 +466,7 @@
     "timeMonth": 98,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-10-10": 1198,
+      "2024-10-10": 1213,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -654,7 +654,7 @@
     "timeMonth": 568,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-10-10": 1198,
+      "2024-10-10": 1213,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -824,7 +824,7 @@
     "timeMonth": 398,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-10-10": 1198,
+      "2024-10-10": 1213,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -1080,19 +1080,19 @@
     "url": "https://www.lempertz.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lempertz.com.ico",
     "slug": "lempertz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 949,
-    "timeDay": 853,
-    "timeWeek": 884,
-    "timeMonth": 946,
-    "timeYear": 949,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 950,
+    "timeDay": 968,
+    "timeWeek": 909,
+    "timeMonth": 951,
+    "timeYear": 950,
     "dailyMinutesDown": {
-      "2024-10-10": 2
+      "2024-10-10": 13
     }
   },
   {
@@ -1561,7 +1561,7 @@
     "timeMonth": 108,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2024-10-10": 1198,
+      "2024-10-10": 1213,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -1674,7 +1674,7 @@
     "timeMonth": 214,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-10-10": 1198,
+      "2024-10-10": 1213,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -1832,10 +1832,10 @@
     "url": "https://www.polyauction.com.hk/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.polyauction.com.hk.ico",
     "slug": "poly-auction",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1643,
@@ -1844,7 +1844,7 @@
     "timeMonth": 1681,
     "timeYear": 1643,
     "dailyMinutesDown": {
-      "2024-10-10": 15,
+      "2024-10-10": 17,
       "2024-10-02": 15
     }
   },
@@ -2063,7 +2063,7 @@
     "timeMonth": 175,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-10-10": 1199,
+      "2024-10-10": 1214,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -2233,7 +2233,7 @@
     "timeMonth": 481,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-10-10": 1199,
+      "2024-10-10": 1214,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -2676,7 +2676,7 @@
     "timeMonth": 122,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-10-10": 1199,
+      "2024-10-10": 1214,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -3109,13 +3109,13 @@
     "status": "up",
     "uptime": "83.18%",
     "uptimeDay": "77.09%",
-    "uptimeWeek": "84.35%",
+    "uptimeWeek": "84.50%",
     "uptimeMonth": "23.87%",
     "uptimeYear": "83.18%",
     "time": 4358,
     "timeDay": 1524,
     "timeWeek": 4942,
-    "timeMonth": 9008,
+    "timeMonth": 9034,
     "timeYear": 4358,
     "dailyMinutesDown": {
       "2024-10-10": 293,
