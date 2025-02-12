@@ -135,7 +135,7 @@
     "timeMonth": 106,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-02-12": 951,
+      "2025-02-12": 957,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 98,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-02-12": 951,
+      "2025-02-12": 957,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -725,7 +725,7 @@
     "timeMonth": 97,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2025-02-12": 951,
+      "2025-02-12": 957,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -1038,7 +1038,7 @@
     "timeMonth": 543,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-02-12": 951,
+      "2025-02-12": 957,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -1333,7 +1333,7 @@
     "timeMonth": 212,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-02-12": 951,
+      "2025-02-12": 957,
       "2025-02-11": 1440,
       "2025-02-10": 1424,
       "2025-02-09": 1440,
@@ -1937,7 +1937,7 @@
     "timeMonth": 431,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2025-02-12": 952,
+      "2025-02-12": 958,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -2378,7 +2378,7 @@
     "timeMonth": 109,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-02-12": 952,
+      "2025-02-12": 958,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -2617,7 +2617,7 @@
     "timeMonth": 224,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-02-12": 952,
+      "2025-02-12": 958,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -3190,19 +3190,19 @@
     "url": "https://www.farsettiarte.it/uk/index.asp",
     "icon": "https://icons.duckduckgo.com/ip3/www.farsettiarte.it.ico",
     "slug": "farsettiarte",
-    "status": "up",
-    "uptime": "95.91%",
-    "uptimeDay": "2.55%",
-    "uptimeWeek": "3.44%",
-    "uptimeMonth": "63.05%",
-    "uptimeYear": "95.91%",
-    "time": 434,
-    "timeDay": 543,
-    "timeWeek": 610,
-    "timeMonth": 583,
-    "timeYear": 434,
+    "status": "down",
+    "uptime": "95.92%",
+    "uptimeDay": "2.74%",
+    "uptimeWeek": "3.47%",
+    "uptimeMonth": "63.12%",
+    "uptimeYear": "95.92%",
+    "time": 433,
+    "timeDay": 494,
+    "timeWeek": 602,
+    "timeMonth": 582,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2025-02-12": 915,
+      "2025-02-12": 918,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -3214,7 +3214,7 @@
       "2025-02-03": 1280,
       "2025-02-02": 1192,
       "2025-02-01": 1104,
-      "2025-01-31": 1009
+      "2025-01-31": 979
     }
   },
   {
@@ -3434,7 +3434,7 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.35%",
+    "uptimeWeek": "97.41%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.79%",
     "time": 1603,
@@ -3711,7 +3711,7 @@
     "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-02-12": 953,
+      "2025-02-12": 959,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -4268,11 +4268,11 @@
     "url": "https://artpro.com/?locale=en",
     "icon": "https://icons.duckduckgo.com/ip3/artpro.com.ico",
     "slug": "artpro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 2536,
     "timeDay": 2238,
@@ -4280,6 +4280,7 @@
     "timeMonth": 2389,
     "timeYear": 2536,
     "dailyMinutesDown": {
+      "2025-02-12": 2,
       "2025-02-07": 20,
       "2024-11-23": 17
     }
