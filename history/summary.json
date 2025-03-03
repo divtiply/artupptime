@@ -135,7 +135,7 @@
     "timeMonth": 110,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-03-03": 678,
+      "2025-03-03": 687,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -449,7 +449,7 @@
     "timeMonth": 106,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-03-03": 678,
+      "2025-03-03": 687,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -763,7 +763,7 @@
     "timeMonth": 107,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-03-03": 678,
+      "2025-03-03": 687,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1095,7 +1095,7 @@
     "timeMonth": 560,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2025-03-03": 678,
+      "2025-03-03": 687,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1409,7 +1409,7 @@
     "timeMonth": 236,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-03-03": 672,
+      "2025-03-03": 682,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1434,
@@ -1744,7 +1744,7 @@
     "uptimeYear": "99.82%",
     "time": 911,
     "timeDay": 895,
-    "timeWeek": 847,
+    "timeWeek": 839,
     "timeMonth": 818,
     "timeYear": 911,
     "dailyMinutesDown": {
@@ -1882,7 +1882,7 @@
     "uptimeYear": "99.87%",
     "time": 1327,
     "timeDay": 629,
-    "timeWeek": 831,
+    "timeWeek": 827,
     "timeMonth": 931,
     "timeYear": 1327,
     "dailyMinutesDown": {
@@ -1912,7 +1912,7 @@
     "uptimeYear": "99.87%",
     "time": 1283,
     "timeDay": 660,
-    "timeWeek": 792,
+    "timeWeek": 785,
     "timeMonth": 929,
     "timeYear": 1283,
     "dailyMinutesDown": {
@@ -1942,7 +1942,7 @@
     "uptimeYear": "99.88%",
     "time": 1268,
     "timeDay": 684,
-    "timeWeek": 681,
+    "timeWeek": 673,
     "timeMonth": 753,
     "timeYear": 1268,
     "dailyMinutesDown": {
@@ -1970,7 +1970,7 @@
     "uptimeYear": "99.88%",
     "time": 1244,
     "timeDay": 559,
-    "timeWeek": 666,
+    "timeWeek": 656,
     "timeMonth": 809,
     "timeYear": 1244,
     "dailyMinutesDown": {
@@ -2045,7 +2045,7 @@
     "timeMonth": 425,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-03-03": 678,
+      "2025-03-03": 688,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -2403,7 +2403,7 @@
     "uptime": "96.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.35%",
+    "uptimeMonth": "68.32%",
     "uptimeYear": "96.67%",
     "time": 1169,
     "timeDay": 1332,
@@ -2411,7 +2411,7 @@
     "timeMonth": 1024,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2025-03-03": 678,
+      "2025-03-03": 688,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -2520,7 +2520,7 @@
     "timeMonth": 112,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-03-03": 678,
+      "2025-03-03": 688,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -2778,7 +2778,7 @@
     "timeMonth": 210,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-03-03": 678,
+      "2025-03-03": 688,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -3370,19 +3370,19 @@
     "url": "https://www.farsettiarte.it/uk/index.asp",
     "icon": "https://icons.duckduckgo.com/ip3/www.farsettiarte.it.ico",
     "slug": "farsettiarte",
-    "status": "up",
-    "uptime": "94.22%",
-    "uptimeDay": "35.31%",
-    "uptimeWeek": "17.83%",
-    "uptimeMonth": "44.19%",
-    "uptimeYear": "94.22%",
+    "status": "down",
+    "uptime": "94.24%",
+    "uptimeDay": "35.19%",
+    "uptimeWeek": "17.91%",
+    "uptimeMonth": "44.36%",
+    "uptimeYear": "94.24%",
     "time": 476,
-    "timeDay": 529,
-    "timeWeek": 548,
-    "timeMonth": 563,
+    "timeDay": 520,
+    "timeWeek": 546,
+    "timeMonth": 562,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2025-03-03": 397,
+      "2025-03-03": 399,
       "2025-03-02": 1025,
       "2025-03-01": 1080,
       "2025-02-28": 873,
@@ -3401,7 +3401,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1252,
-      "2025-02-12": 92
+      "2025-02-12": 16
     }
   },
   {
@@ -3898,7 +3898,7 @@
     "timeMonth": 112,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-03-03": 679,
+      "2025-03-03": 689,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -4665,7 +4665,7 @@
     "uptimeYear": "99.97%",
     "time": 405,
     "timeDay": 141,
-    "timeWeek": 1076,
+    "timeWeek": 1105,
     "timeMonth": 676,
     "timeYear": 405,
     "dailyMinutesDown": {
