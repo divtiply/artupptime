@@ -140,7 +140,7 @@
     "timeMonth": 107,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-03-15": 362,
+      "2025-03-15": 382,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -466,7 +466,7 @@
     "timeMonth": 97,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-03-15": 362,
+      "2025-03-15": 382,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -792,7 +792,7 @@
     "timeMonth": 110,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-03-15": 362,
+      "2025-03-15": 382,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1136,7 +1136,7 @@
     "timeMonth": 558,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-03-15": 362,
+      "2025-03-15": 382,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1462,7 +1462,7 @@
     "timeMonth": 231,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-03-15": 362,
+      "2025-03-15": 382,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -2135,7 +2135,7 @@
     "timeMonth": 446,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-03-15": 362,
+      "2025-03-15": 383,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -2505,7 +2505,7 @@
     "uptime": "92.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.73%",
+    "uptimeMonth": "29.68%",
     "uptimeYear": "92.94%",
     "time": 1162,
     "timeDay": 0,
@@ -2513,7 +2513,7 @@
     "timeMonth": 978,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2025-03-15": 362,
+      "2025-03-15": 383,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -2634,7 +2634,7 @@
     "timeMonth": 99,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-03-15": 362,
+      "2025-03-15": 383,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -2904,7 +2904,7 @@
     "timeMonth": 209,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-03-15": 362,
+      "2025-03-15": 383,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -3512,19 +3512,19 @@
     "url": "https://www.farsettiarte.it/uk/index.asp",
     "icon": "https://icons.duckduckgo.com/ip3/www.farsettiarte.it.ico",
     "slug": "farsettiarte",
-    "status": "up",
+    "status": "down",
     "uptime": "98.11%",
-    "uptimeDay": "22.90%",
-    "uptimeWeek": "23.15%",
-    "uptimeMonth": "80.99%",
+    "uptimeDay": "24.10%",
+    "uptimeWeek": "23.21%",
+    "uptimeMonth": "81.04%",
     "uptimeYear": "98.11%",
-    "time": 516,
-    "timeDay": 591,
+    "time": 515,
+    "timeDay": 572,
     "timeWeek": 559,
     "timeMonth": 568,
-    "timeYear": 516,
+    "timeYear": 515,
     "dailyMinutesDown": {
-      "2025-03-15": 158,
+      "2025-03-15": 161,
       "2025-03-14": 1314,
       "2025-03-13": 1440,
       "2025-03-12": 1296,
@@ -3532,7 +3532,7 @@
       "2025-03-10": 911,
       "2025-03-09": 892,
       "2025-03-08": 1070,
-      "2025-03-07": 264
+      "2025-03-07": 241
     }
   },
   {
@@ -3541,11 +3541,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.forumauctions.co.uk.ico",
     "slug": "forum-auctions",
     "status": "up",
-    "uptime": "46.17%",
+    "uptime": "46.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.17%",
+    "uptimeYear": "46.18%",
     "time": 779,
     "timeDay": 0,
     "timeWeek": 992,
@@ -4032,7 +4032,7 @@
     "timeMonth": 127,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-03-15": 363,
+      "2025-03-15": 384,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -4348,9 +4348,9 @@
     "slug": "drouot",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "92.83%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.87%",
     "time": 787,
     "timeDay": 2073,
@@ -4358,7 +4358,7 @@
     "timeMonth": 932,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2025-03-15": 82,
+      "2025-03-15": 103,
       "2024-12-03": 22,
       "2024-07-26": 465
     }
