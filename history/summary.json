@@ -144,7 +144,7 @@
     "timeMonth": 109,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-04-09": 1352,
+      "2025-04-09": 1367,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -495,7 +495,7 @@
     "timeMonth": 95,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-09": 1352,
+      "2025-04-09": 1367,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -846,7 +846,7 @@
     "timeMonth": 109,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-04-09": 1352,
+      "2025-04-09": 1367,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1215,7 +1215,7 @@
     "timeMonth": 576,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-04-09": 1352,
+      "2025-04-09": 1367,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1566,7 +1566,7 @@
     "timeMonth": 175,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-04-09": 1352,
+      "2025-04-09": 1367,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1911,9 +1911,9 @@
     "slug": "seoul-auction",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 1125,
     "timeDay": 945,
@@ -1921,7 +1921,7 @@
     "timeMonth": 1077,
     "timeYear": 1125,
     "dailyMinutesDown": {
-      "2025-04-09": 23,
+      "2025-04-09": 38,
       "2024-10-17": 130,
       "2024-08-21": 35
     }
@@ -2018,19 +2018,19 @@
     "url": "https://www.swanngalleries.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.swanngalleries.com.ico",
     "slug": "swan-galleries",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
-    "time": 1759,
-    "timeDay": 10256,
-    "timeWeek": 6912,
-    "timeMonth": 3584,
-    "timeYear": 1759,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1805,
+    "timeDay": 10836,
+    "timeWeek": 7526,
+    "timeMonth": 3926,
+    "timeYear": 1805,
     "dailyMinutesDown": {
-      "2025-04-09": 20
+      "2025-04-09": 33
     }
   },
   {
@@ -2301,7 +2301,7 @@
     "timeMonth": 460,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-04-09": 1352,
+      "2025-04-09": 1368,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -2714,7 +2714,7 @@
     "timeMonth": 991,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2025-04-09": 1353,
+      "2025-04-09": 1368,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -2861,7 +2861,7 @@
     "timeMonth": 123,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-04-09": 1353,
+      "2025-04-09": 1368,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -3157,7 +3157,7 @@
     "timeMonth": 422,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-04-09": 1353,
+      "2025-04-09": 1368,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -3796,13 +3796,13 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "91.96%",
-    "uptimeWeek": "91.24%",
+    "uptimeWeek": "91.39%",
     "uptimeMonth": "92.16%",
     "uptimeYear": "99.28%",
     "time": 542,
     "timeDay": 717,
     "timeWeek": 651,
-    "timeMonth": 579,
+    "timeMonth": 580,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2025-04-09": 116,
@@ -4318,7 +4318,7 @@
     "timeMonth": 130,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-04-09": 1354,
+      "2025-04-09": 1369,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
