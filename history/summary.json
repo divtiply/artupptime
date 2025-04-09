@@ -144,7 +144,7 @@
     "timeMonth": 109,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-04-09": 1277,
+      "2025-04-09": 1290,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -495,7 +495,7 @@
     "timeMonth": 95,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-09": 1277,
+      "2025-04-09": 1290,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -846,7 +846,7 @@
     "timeMonth": 109,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-04-09": 1277,
+      "2025-04-09": 1290,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1215,7 +1215,7 @@
     "timeMonth": 576,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-04-09": 1277,
+      "2025-04-09": 1290,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1566,7 +1566,7 @@
     "timeMonth": 175,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-04-09": 1277,
+      "2025-04-09": 1290,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -2017,10 +2017,10 @@
     "url": "https://www.swanngalleries.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.swanngalleries.com.ico",
     "slug": "swan-galleries",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1641,
@@ -2029,7 +2029,7 @@
     "timeMonth": 2577,
     "timeYear": 1641,
     "dailyMinutesDown": {
-      "2025-04-09": 18
+      "2025-04-09": 20
     }
   },
   {
@@ -2300,7 +2300,7 @@
     "timeMonth": 460,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-04-09": 1278,
+      "2025-04-09": 1290,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -2702,18 +2702,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.polswissart.pl.ico",
     "slug": "polswissart",
     "status": "down",
-    "uptime": "85.75%",
+    "uptime": "85.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.75%",
+    "uptimeYear": "85.74%",
     "time": 1150,
     "timeDay": 886,
     "timeWeek": 1051,
     "timeMonth": 991,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2025-04-09": 1278,
+      "2025-04-09": 1291,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -2860,7 +2860,7 @@
     "timeMonth": 123,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-04-09": 1278,
+      "2025-04-09": 1291,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -3156,7 +3156,7 @@
     "timeMonth": 422,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-04-09": 1278,
+      "2025-04-09": 1291,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -3794,9 +3794,9 @@
     "slug": "farsettiarte",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "88.62%",
-    "uptimeWeek": "91.07%",
-    "uptimeMonth": "92.19%",
+    "uptimeDay": "89.66%",
+    "uptimeWeek": "91.21%",
+    "uptimeMonth": "92.16%",
     "uptimeYear": "99.28%",
     "time": 541,
     "timeDay": 704,
@@ -3804,7 +3804,7 @@
     "timeMonth": 579,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2025-04-09": 131,
+      "2025-04-09": 116,
       "2025-04-08": 156,
       "2025-04-07": 166,
       "2025-04-06": 139,
@@ -3816,7 +3816,7 @@
       "2025-03-31": 757,
       "2025-03-30": 483,
       "2025-03-29": 599,
-      "2025-03-28": 104
+      "2025-03-28": 130
     }
   },
   {
@@ -4317,7 +4317,7 @@
     "timeMonth": 130,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-04-09": 1279,
+      "2025-04-09": 1291,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -4813,12 +4813,12 @@
     "uptime": "91.51%",
     "uptimeDay": "98.94%",
     "uptimeWeek": "98.12%",
-    "uptimeMonth": "98.39%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "91.51%",
     "time": 528,
     "timeDay": 493,
     "timeWeek": 442,
-    "timeMonth": 466,
+    "timeMonth": 465,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2025-04-09": 15,
