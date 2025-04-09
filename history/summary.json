@@ -144,7 +144,7 @@
     "timeMonth": 109,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-04-09": 1402,
+      "2025-04-09": 1411,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -495,7 +495,7 @@
     "timeMonth": 95,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-09": 1402,
+      "2025-04-09": 1411,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -846,7 +846,7 @@
     "timeMonth": 109,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-09": 1402,
+      "2025-04-09": 1411,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1215,7 +1215,7 @@
     "timeMonth": 576,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-04-09": 1402,
+      "2025-04-09": 1411,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1566,7 +1566,7 @@
     "timeMonth": 172,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-04-09": 1402,
+      "2025-04-09": 1411,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -2018,11 +2018,11 @@
     "url": "https://www.swanngalleries.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.swanngalleries.com.ico",
     "slug": "swan-galleries",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1831,
     "timeDay": 11744,
@@ -2030,7 +2030,7 @@
     "timeMonth": 4164,
     "timeYear": 1831,
     "dailyMinutesDown": {
-      "2025-04-09": 33
+      "2025-04-09": 35
     }
   },
   {
@@ -2301,7 +2301,7 @@
     "timeMonth": 460,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-04-09": 1402,
+      "2025-04-09": 1412,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -2714,7 +2714,7 @@
     "timeMonth": 991,
     "timeYear": 1149,
     "dailyMinutesDown": {
-      "2025-04-09": 1402,
+      "2025-04-09": 1412,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -2861,7 +2861,7 @@
     "timeMonth": 123,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-04-09": 1403,
+      "2025-04-09": 1412,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -3157,7 +3157,7 @@
     "timeMonth": 423,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-04-09": 1403,
+      "2025-04-09": 1412,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -3802,7 +3802,7 @@
     "time": 542,
     "timeDay": 673,
     "timeWeek": 640,
-    "timeMonth": 579,
+    "timeMonth": 580,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2025-04-09": 116,
@@ -4318,7 +4318,7 @@
     "timeMonth": 134,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-04-09": 1403,
+      "2025-04-09": 1413,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -4810,19 +4810,19 @@
     "url": "https://www.askart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.askart.com.ico",
     "slug": "askart",
-    "status": "down",
+    "status": "up",
     "uptime": "91.51%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "98.38%",
     "uptimeYear": "91.51%",
     "time": 528,
-    "timeDay": 466,
-    "timeWeek": 431,
+    "timeDay": 450,
+    "timeWeek": 430,
     "timeMonth": 464,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-04-09": 17,
+      "2025-04-09": 25,
       "2025-04-07": 40,
       "2025-04-05": 52,
       "2025-04-04": 81,
