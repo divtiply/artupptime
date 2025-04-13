@@ -1,7 +1,7 @@
 url: https://www.liveauctioneers.com/
-status: up
-code: 200
-responseTime: 572
-lastUpdated: 2025-04-12T17:43:49.278Z
+status: down
+code: 503
+responseTime: 12562
+lastUpdated: 2025-04-13T07:00:25.819Z
 startTime: 2024-05-13T19:26:15.334Z
 generator: Upptime <https://github.com/upptime/upptime>
