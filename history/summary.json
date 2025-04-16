@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.christies.com.ico",
     "slug": "christies",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 308,
     "timeDay": 143,
     "timeWeek": 186,
@@ -144,7 +144,7 @@
     "timeMonth": 109,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-04-16": 1162,
+      "2025-04-16": 1182,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 100,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-16": 1162,
+      "2025-04-16": 1182,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -860,7 +860,7 @@
     "timeMonth": 110,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-16": 1162,
+      "2025-04-16": 1182,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -1236,7 +1236,7 @@
     "timeMonth": 591,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-04-16": 1162,
+      "2025-04-16": 1183,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -1594,7 +1594,7 @@
     "timeMonth": 173,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-04-16": 1162,
+      "2025-04-16": 1183,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -2003,18 +2003,19 @@
     "url": "https://www.dorotheum.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dorotheum.com.ico",
     "slug": "dorotheum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.73%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "88.70%",
     "uptimeMonth": "96.48%",
     "uptimeYear": "99.61%",
-    "time": 1443,
-    "timeDay": 1492,
-    "timeWeek": 1123,
-    "timeMonth": 1156,
-    "timeYear": 1443,
+    "time": 1441,
+    "timeDay": 1118,
+    "timeWeek": 1095,
+    "timeMonth": 1150,
+    "timeYear": 1441,
     "dailyMinutesDown": {
+      "2025-04-16": 2,
       "2025-04-11": 656,
       "2025-04-10": 480,
       "2025-04-09": 48,
@@ -2149,7 +2150,7 @@
     "time": 1153,
     "timeDay": 714,
     "timeWeek": 704,
-    "timeMonth": 889,
+    "timeMonth": 893,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -2191,7 +2192,7 @@
     "time": 1127,
     "timeDay": 1057,
     "timeWeek": 704,
-    "timeMonth": 824,
+    "timeMonth": 828,
     "timeYear": 1127,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -2233,7 +2234,7 @@
     "time": 1084,
     "timeDay": 757,
     "timeWeek": 731,
-    "timeMonth": 834,
+    "timeMonth": 836,
     "timeYear": 1084,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -2273,7 +2274,7 @@
     "time": 1097,
     "timeDay": 962,
     "timeWeek": 904,
-    "timeMonth": 837,
+    "timeMonth": 838,
     "timeYear": 1097,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -2360,7 +2361,7 @@
     "timeMonth": 475,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2025-04-16": 1163,
+      "2025-04-16": 1183,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -2780,7 +2781,7 @@
     "timeMonth": 967,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2025-04-16": 1163,
+      "2025-04-16": 1184,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -2877,18 +2878,16 @@
     "slug": "scottsdale-art-auction",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
     "timeDay": 384,
     "timeWeek": 384,
     "timeMonth": 448,
     "timeYear": 280,
-    "dailyMinutesDown": {
-      "2025-04-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Van Ham",
@@ -2936,7 +2935,7 @@
     "timeMonth": 125,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-04-16": 1163,
+      "2025-04-16": 1184,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -3239,7 +3238,7 @@
     "timeMonth": 425,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-04-16": 1163,
+      "2025-04-16": 1184,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -4412,7 +4411,7 @@
     "timeMonth": 136,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-04-16": 1164,
+      "2025-04-16": 1185,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -4833,7 +4832,7 @@
     "time": 415,
     "timeDay": 294,
     "timeWeek": 759,
-    "timeMonth": 364,
+    "timeMonth": 366,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -5263,7 +5262,7 @@
     "time": 344,
     "timeDay": 161,
     "timeWeek": 191,
-    "timeMonth": 247,
+    "timeMonth": 248,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-04-14": 91,
