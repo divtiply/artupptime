@@ -144,7 +144,7 @@
     "timeMonth": 109,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-04-16": 691,
+      "2025-04-16": 698,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -502,7 +502,7 @@
     "timeMonth": 100,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-16": 692,
+      "2025-04-16": 698,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -860,7 +860,7 @@
     "timeMonth": 110,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-16": 692,
+      "2025-04-16": 698,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -1236,7 +1236,7 @@
     "timeMonth": 591,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-04-16": 692,
+      "2025-04-16": 698,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -1594,7 +1594,7 @@
     "timeMonth": 173,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-04-16": 692,
+      "2025-04-16": 698,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -1975,7 +1975,7 @@
     "time": 862,
     "timeDay": 707,
     "timeWeek": 806,
-    "timeMonth": 784,
+    "timeMonth": 785,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -2149,7 +2149,7 @@
     "time": 1153,
     "timeDay": 714,
     "timeWeek": 704,
-    "timeMonth": 888,
+    "timeMonth": 894,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -2191,7 +2191,7 @@
     "time": 1127,
     "timeDay": 1057,
     "timeWeek": 704,
-    "timeMonth": 827,
+    "timeMonth": 832,
     "timeYear": 1127,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -2233,7 +2233,7 @@
     "time": 1084,
     "timeDay": 757,
     "timeWeek": 731,
-    "timeMonth": 834,
+    "timeMonth": 839,
     "timeYear": 1084,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -2273,7 +2273,7 @@
     "time": 1097,
     "timeDay": 962,
     "timeWeek": 904,
-    "timeMonth": 846,
+    "timeMonth": 851,
     "timeYear": 1097,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -2360,7 +2360,7 @@
     "timeMonth": 475,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2025-04-16": 692,
+      "2025-04-16": 699,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -2780,7 +2780,7 @@
     "timeMonth": 967,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2025-04-16": 692,
+      "2025-04-16": 699,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -2934,7 +2934,7 @@
     "timeMonth": 125,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-04-16": 693,
+      "2025-04-16": 699,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -3237,7 +3237,7 @@
     "timeMonth": 425,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-04-16": 693,
+      "2025-04-16": 700,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -4410,7 +4410,7 @@
     "timeMonth": 136,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-04-16": 693,
+      "2025-04-16": 700,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -4831,7 +4831,7 @@
     "time": 415,
     "timeDay": 294,
     "timeWeek": 725,
-    "timeMonth": 363,
+    "timeMonth": 364,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2025-04-14": 91,
@@ -4913,19 +4913,19 @@
     "url": "https://www.askart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.askart.com.ico",
     "slug": "askart",
-    "status": "down",
+    "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "90.92%",
-    "uptimeWeek": "93.34%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "90.62%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "96.93%",
     "uptimeYear": "99.39%",
     "time": 525,
-    "timeDay": 456,
+    "timeDay": 455,
     "timeWeek": 474,
     "timeMonth": 453,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2025-04-16": 115,
+      "2025-04-16": 120,
       "2025-04-15": 37,
       "2025-04-14": 16,
       "2025-04-13": 37,
