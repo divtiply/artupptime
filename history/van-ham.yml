@@ -1,7 +1,7 @@
 url: https://www.van-ham.com/en/index.html
-status: up
-code: 200
-responseTime: 1271
-lastUpdated: 2025-04-16T23:19:46.851Z
+status: down
+code: 500
+responseTime: 7000
+lastUpdated: 2025-04-17T10:57:39.091Z
 startTime: 2024-05-13T16:22:31.018Z
 generator: Upptime <https://github.com/upptime/upptime>
