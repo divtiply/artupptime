@@ -144,7 +144,7 @@
     "timeMonth": 112,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-04-21": 920,
+      "2025-04-21": 935,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -507,7 +507,7 @@
     "timeMonth": 103,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-21": 920,
+      "2025-04-21": 935,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -870,7 +870,7 @@
     "timeMonth": 107,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-04-21": 920,
+      "2025-04-21": 935,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -1251,7 +1251,7 @@
     "timeMonth": 598,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-04-21": 920,
+      "2025-04-21": 935,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -1614,7 +1614,7 @@
     "timeMonth": 170,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-04-21": 920,
+      "2025-04-21": 935,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -2386,7 +2386,7 @@
     "timeMonth": 472,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2025-04-21": 921,
+      "2025-04-21": 936,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -2812,7 +2812,7 @@
     "timeMonth": 967,
     "timeYear": 1143,
     "dailyMinutesDown": {
-      "2025-04-21": 921,
+      "2025-04-21": 936,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -2971,7 +2971,7 @@
     "timeMonth": 131,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-04-21": 921,
+      "2025-04-21": 936,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -3279,7 +3279,7 @@
     "timeMonth": 422,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-04-21": 921,
+      "2025-04-21": 936,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -3930,13 +3930,13 @@
     "status": "up",
     "uptime": "98.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.56%",
+    "uptimeWeek": "97.71%",
     "uptimeMonth": "82.75%",
     "uptimeYear": "98.47%",
     "time": 546,
     "timeDay": 1050,
     "timeWeek": 1163,
-    "timeMonth": 602,
+    "timeMonth": 601,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2025-04-14": 1169,
@@ -4457,7 +4457,7 @@
     "timeMonth": 142,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-04-21": 922,
+      "2025-04-21": 937,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -4881,7 +4881,7 @@
     "uptimeMonth": "91.99%",
     "uptimeYear": "99.16%",
     "time": 410,
-    "timeDay": 293,
+    "timeDay": 340,
     "timeWeek": 274,
     "timeMonth": 369,
     "timeYear": 410,
@@ -4947,19 +4947,19 @@
     "url": "https://bidtoart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bidtoart.com.ico",
     "slug": "bidtoart",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 523,
-    "timeWeek": 456,
-    "timeMonth": 483,
-    "timeYear": 455,
+    "time": 456,
+    "timeDay": 617,
+    "timeWeek": 495,
+    "timeMonth": 494,
+    "timeYear": 456,
     "dailyMinutesDown": {
-      "2025-04-21": 3
+      "2025-04-21": 15
     }
   },
   {
@@ -5312,7 +5312,7 @@
     "uptimeMonth": "93.57%",
     "uptimeYear": "99.36%",
     "time": 343,
-    "timeDay": 180,
+    "timeDay": 190,
     "timeWeek": 288,
     "timeMonth": 257,
     "timeYear": 343,
