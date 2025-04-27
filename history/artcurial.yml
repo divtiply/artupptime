@@ -1,7 +1,7 @@
 url: https://www.artcurial.com/en
-status: up
-code: 200
-responseTime: 430
-lastUpdated: 2025-04-26T23:19:26.424Z
+status: down
+code: 429
+responseTime: 298
+lastUpdated: 2025-04-27T05:49:58.701Z
 startTime: 2024-05-13T16:21:48.530Z
 generator: Upptime <https://github.com/upptime/upptime>
