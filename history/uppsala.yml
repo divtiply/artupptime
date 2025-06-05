@@ -1,7 +1,7 @@
 url: https://www.uppsalaauktion.se/en/
-status: up
-code: 200
-responseTime: 840
-lastUpdated: 2025-06-04T23:21:18.152Z
+status: down
+code: 503
+responseTime: 813
+lastUpdated: 2025-06-05T21:27:42.330Z
 startTime: 2024-05-13T19:25:55.499Z
 generator: Upptime <https://github.com/upptime/upptime>
