@@ -1,7 +1,7 @@
 url: https://www.hampel-auctions.com/index.html?la=en
-status: up
-code: 200
-responseTime: 1191
-lastUpdated: 2025-06-10T23:21:01.054Z
+status: down
+code: 500
+responseTime: 11119
+lastUpdated: 2025-06-11T14:32:10.323Z
 startTime: 2024-05-13T18:14:57.634Z
 generator: Upptime <https://github.com/upptime/upptime>
