@@ -1,7 +1,7 @@
 url: https://www.my-auction.co.jp/en/
-status: up
-code: 200
-responseTime: 758
-lastUpdated: 2025-10-20T23:19:10.487Z
+status: down
+code: 503
+responseTime: 621
+lastUpdated: 2025-10-21T01:15:33.083Z
 startTime: 2024-05-13T16:21:54.273Z
 generator: Upptime <https://github.com/upptime/upptime>
