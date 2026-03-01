@@ -1,7 +1,7 @@
 url: https://www.millon.com/en
-status: up
-code: 200
-responseTime: 1746
-lastUpdated: 2026-03-01T11:32:00.619Z
+status: down
+code: 500
+responseTime: 12572
+lastUpdated: 2026-03-01T15:16:59.983Z
 startTime: 2024-05-13T18:15:00.142Z
 generator: Upptime <https://github.com/upptime/upptime>
