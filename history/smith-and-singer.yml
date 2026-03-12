@@ -1,7 +1,7 @@
 url: https://www.smithandsinger.com.au/
-status: up
-code: 200
-responseTime: 685
-lastUpdated: 2026-03-12T01:16:20.356Z
+status: down
+code: 503
+responseTime: 380
+lastUpdated: 2026-03-12T03:41:10.733Z
 startTime: 2024-05-13T16:22:50.690Z
 generator: Upptime <https://github.com/upptime/upptime>
