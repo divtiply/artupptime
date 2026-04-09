@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 257,
-    "timeDay": 0,
-    "timeWeek": 146,
-    "timeMonth": 170,
+    "timeDay": 101,
+    "timeWeek": 140,
+    "timeMonth": 167,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2025-11-10": 50,
@@ -107,7 +107,8 @@
     "timeMonth": 112,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-04-08": 1423,
+      "2026-04-09": 56,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -469,8 +470,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   },
   {
@@ -490,7 +490,8 @@
     "timeMonth": 90,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2026-04-08": 1423,
+      "2026-04-09": 56,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -853,8 +854,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   },
   {
@@ -874,7 +874,8 @@
     "timeMonth": 95,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2026-04-08": 1423,
+      "2026-04-09": 56,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -1237,8 +1238,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   },
   {
@@ -1269,8 +1269,8 @@
     "slug": "bruun-rasmussen",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "26.96%",
-    "uptimeWeek": "43.22%",
+    "uptimeDay": "32.05%",
+    "uptimeWeek": "43.95%",
     "uptimeMonth": "77.87%",
     "uptimeYear": "98.14%",
     "time": 732,
@@ -1321,7 +1321,8 @@
     "timeMonth": 149,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-04-08": 1423,
+      "2026-04-09": 56,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -1639,8 +1640,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   },
   {
@@ -1762,8 +1762,7 @@
     "timeYear": 1131,
     "dailyMinutesDown": {
       "2025-06-26": 81,
-      "2025-06-25": 903,
-      "2025-04-09": 46
+      "2025-06-25": 903
     }
   },
   {
@@ -1802,8 +1801,7 @@
       "2025-04-22": 21,
       "2025-04-14": 91,
       "2025-04-11": 1175,
-      "2025-04-10": 1440,
-      "2025-04-09": 12
+      "2025-04-10": 1440
     }
   },
   {
@@ -1888,8 +1886,7 @@
       "2025-04-21": 19,
       "2025-04-17": 34,
       "2025-04-11": 656,
-      "2025-04-10": 480,
-      "2025-04-09": 48
+      "2025-04-10": 480
     }
   },
   {
@@ -1922,14 +1919,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.43%",
+    "uptimeYear": "24.41%",
     "time": 1793,
     "timeDay": 154,
     "timeWeek": 144,
     "timeMonth": 155,
     "timeYear": 1852,
     "dailyMinutesDown": {
-      "2026-04-08": 1423,
+      "2026-04-09": 57,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -2207,8 +2205,7 @@
       "2025-07-07": 780,
       "2025-06-09": 221,
       "2025-06-08": 77,
-      "2025-04-10": 126,
-      "2025-04-09": 33
+      "2025-04-10": 126
     }
   },
   {
@@ -2309,8 +2306,7 @@
       "2025-05-05": 34,
       "2025-04-25": 17,
       "2025-04-24": 18,
-      "2025-04-15": 24,
-      "2025-04-09": 37
+      "2025-04-15": 24
     }
   },
   {
@@ -2462,7 +2458,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.piasa.fr.ico",
     "slug": "piasa",
     "status": "down",
-    "uptime": "23.55%",
+    "uptime": "23.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2473,7 +2469,8 @@
     "timeMonth": 400,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2026-04-08": 1424,
+      "2026-04-09": 58,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -2836,8 +2833,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   },
   {
@@ -2868,10 +2864,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/imkinsky.com.ico",
     "slug": "imkinsky",
     "status": "up",
-    "uptime": "84.21%",
+    "uptime": "84.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.63%",
+    "uptimeMonth": "83.80%",
     "uptimeYear": "70.41%",
     "time": 1242,
     "timeDay": 691,
@@ -3264,14 +3260,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.04%",
+    "uptimeYear": "39.02%",
     "time": 863,
     "timeDay": 508,
     "timeWeek": 563,
     "timeMonth": 605,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2026-04-08": 1425,
+      "2026-04-09": 58,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -3509,7 +3506,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.polswissart.pl.ico",
     "slug": "polswissart",
     "status": "down",
-    "uptime": "40.84%",
+    "uptime": "40.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3520,7 +3517,8 @@
     "timeMonth": 813,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2026-04-08": 1425,
+      "2026-04-09": 58,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -3883,8 +3881,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   },
   {
@@ -3893,18 +3890,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aguttes.com.ico",
     "slug": "aguttes",
     "status": "down",
-    "uptime": "98.32%",
+    "uptime": "98.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.78%",
-    "uptimeYear": "96.79%",
+    "uptimeMonth": "71.62%",
+    "uptimeYear": "96.78%",
     "time": 1141,
     "timeDay": 359,
     "timeWeek": 517,
     "timeMonth": 926,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2026-04-08": 1425,
+      "2026-04-09": 58,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -4056,7 +4054,8 @@
     "timeMonth": 106,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-04-08": 1425,
+      "2026-04-09": 59,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -4419,8 +4418,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   },
   {
@@ -4429,18 +4427,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hindmanauctions.com.ico",
     "slug": "hindman",
     "status": "down",
-    "uptime": "77.49%",
+    "uptime": "77.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.13%",
+    "uptimeYear": "57.11%",
     "time": 565,
     "timeDay": 203,
     "timeWeek": 194,
     "timeMonth": 251,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2026-04-08": 1425,
+      "2026-04-09": 59,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -4641,7 +4640,8 @@
     "timeMonth": 220,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2026-04-08": 1425,
+      "2026-04-09": 59,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -5004,8 +5004,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   },
   {
@@ -5171,14 +5170,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.11%",
+    "uptimeYear": "47.09%",
     "time": 995,
     "timeDay": 157,
     "timeWeek": 98,
     "timeMonth": 105,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2026-04-08": 1426,
+      "2026-04-09": 59,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -5392,7 +5392,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/de-vuyst.com.ico",
     "slug": "de-vuyst",
     "status": "up",
-    "uptime": "78.78%",
+    "uptime": "78.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -5568,15 +5568,16 @@
     "uptime": "92.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "57.18%",
-    "uptimeYear": "85.24%",
+    "uptimeMonth": "57.01%",
+    "uptimeYear": "85.23%",
     "time": 6627,
     "timeDay": 70,
     "timeWeek": 80,
     "timeMonth": 3035,
     "timeYear": 7239,
     "dailyMinutesDown": {
-      "2026-04-08": 1426,
+      "2026-04-09": 59,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -5731,12 +5732,12 @@
     "slug": "strauss-and-co",
     "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "99.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
-    "uptimeMonth": "94.13%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "97.10%",
     "time": 4808,
-    "timeDay": 5177,
+    "timeDay": 4796,
     "timeWeek": 5249,
     "timeMonth": 6453,
     "timeYear": 5159,
@@ -5780,18 +5781,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uppsalaauktion.se.ico",
     "slug": "uppsala",
     "status": "down",
-    "uptime": "89.87%",
+    "uptime": "89.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.72%",
+    "uptimeYear": "80.70%",
     "time": 925,
     "timeDay": 1018,
     "timeWeek": 1005,
     "timeMonth": 1092,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2026-04-08": 1426,
+      "2026-04-09": 59,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -5872,18 +5874,19 @@
     "url": "https://lehr-kunstauktionen.de/en/",
     "icon": "https://icons.duckduckgo.com/ip3/lehr-kunstauktionen.de.ico",
     "slug": "lehr-kunstauktionen",
-    "status": "up",
+    "status": "down",
     "uptime": "96.75%",
-    "uptimeDay": "88.39%",
-    "uptimeWeek": "96.06%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "88.08%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "94.09%",
-    "time": 2023,
+    "time": 2024,
     "timeDay": 2034,
     "timeWeek": 2036,
     "timeMonth": 2047,
     "timeYear": 2044,
     "dailyMinutesDown": {
+      "2026-04-09": 4,
       "2026-04-08": 167,
       "2026-04-07": 167,
       "2026-04-06": 28,
@@ -5943,14 +5946,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.40%",
+    "uptimeYear": "24.39%",
     "time": 547,
     "timeDay": 164,
     "timeWeek": 186,
     "timeMonth": 185,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2026-04-08": 1426,
+      "2026-04-09": 59,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -6229,8 +6233,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 338,
-      "2025-04-10": 58,
-      "2025-04-09": 116
+      "2025-04-10": 58
     }
   },
   {
@@ -6263,16 +6266,17 @@
     "status": "down",
     "uptime": "98.63%",
     "uptimeDay": "42.08%",
-    "uptimeWeek": "38.32%",
-    "uptimeMonth": "68.80%",
-    "uptimeYear": "97.40%",
+    "uptimeWeek": "37.60%",
+    "uptimeMonth": "68.63%",
+    "uptimeYear": "97.39%",
     "time": 1250,
     "timeDay": 1467,
     "timeWeek": 1244,
-    "timeMonth": 1240,
+    "timeMonth": 1242,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2026-04-08": 821,
+      "2026-04-09": 59,
+      "2026-04-08": 835,
       "2026-04-07": 1037,
       "2026-04-06": 684,
       "2026-04-05": 1056,
@@ -6335,18 +6339,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lyonandturnbull.com.ico",
     "slug": "lyon-and-turnbull",
     "status": "up",
-    "uptime": "83.97%",
+    "uptime": "83.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.49%",
+    "uptimeYear": "69.47%",
     "time": 432,
     "timeDay": 236,
     "timeWeek": 345,
     "timeMonth": 366,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2026-04-08": 1427,
+      "2026-04-09": 60,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -6478,7 +6483,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roseberys.co.uk.ico",
     "slug": "roseberys",
     "status": "up",
-    "uptime": "84.34%",
+    "uptime": "84.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -6567,18 +6572,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.auktionsverket.com.ico",
     "slug": "stockholms-auktionsverk",
     "status": "down",
-    "uptime": "93.55%",
+    "uptime": "93.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.31%",
+    "uptimeYear": "88.29%",
     "time": 951,
     "timeDay": 546,
     "timeWeek": 554,
     "timeMonth": 597,
     "timeYear": 938,
     "dailyMinutesDown": {
-      "2026-04-08": 1427,
+      "2026-04-09": 60,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -6716,7 +6722,8 @@
     "timeMonth": 135,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2026-04-08": 1427,
+      "2026-04-09": 60,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -7079,8 +7086,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   },
   {
@@ -7302,8 +7308,7 @@
       "2025-04-14": 91,
       "2025-04-13": 33,
       "2025-04-11": 1177,
-      "2025-04-10": 1440,
-      "2025-04-09": 30
+      "2025-04-10": 1440
     }
   },
   {
@@ -7340,7 +7345,7 @@
     "uptime": "93.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.03%",
-    "uptimeMonth": "49.74%",
+    "uptimeMonth": "49.91%",
     "uptimeYear": "86.90%",
     "time": 1887,
     "timeDay": 74,
@@ -7419,14 +7424,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.54%",
+    "uptimeYear": "19.52%",
     "time": 891,
     "timeDay": 131,
     "timeWeek": 114,
     "timeMonth": 118,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2026-04-08": 1427,
+      "2026-04-09": 61,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -7758,18 +7764,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/artchart.net.ico",
     "slug": "artchart",
     "status": "down",
-    "uptime": "87.98%",
+    "uptime": "87.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.48%",
+    "uptimeYear": "77.47%",
     "time": 4704,
     "timeDay": 15205,
     "timeWeek": 15264,
     "timeMonth": 15313,
     "timeYear": 5095,
     "dailyMinutesDown": {
-      "2026-04-08": 1428,
+      "2026-04-09": 61,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -7925,18 +7932,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/darz.art.ico",
     "slug": "darz",
     "status": "down",
-    "uptime": "79.70%",
+    "uptime": "79.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "25.52%",
-    "uptimeYear": "62.06%",
+    "uptimeYear": "62.04%",
     "time": 1356,
     "timeDay": 584,
     "timeWeek": 621,
     "timeMonth": 601,
     "timeYear": 1612,
     "dailyMinutesDown": {
-      "2026-04-08": 1428,
+      "2026-04-09": 61,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -8145,18 +8153,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/collectordaily.com.ico",
     "slug": "collector-daily",
     "status": "down",
-    "uptime": "90.72%",
+    "uptime": "90.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.34%",
+    "uptimeYear": "82.33%",
     "time": 343,
     "timeDay": 155,
     "timeWeek": 157,
     "timeMonth": 178,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-04-08": 1428,
+      "2026-04-09": 61,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -8304,8 +8313,7 @@
       "2025-04-22": 21,
       "2025-04-14": 91,
       "2025-04-11": 1177,
-      "2025-04-10": 1440,
-      "2025-04-09": 26
+      "2025-04-10": 1440
     }
   },
   {
